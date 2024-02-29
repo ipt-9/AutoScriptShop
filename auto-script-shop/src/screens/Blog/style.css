@@ -1,0 +1,935 @@
+.blog {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.blog .div-11 {
+  background-color: #000000;
+  height: 5155px;
+  position: relative;
+  width: 1920px;
+}
+
+.blog .div-12 {
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.blog .icon-black-8 {
+  height: 70px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 59px;
+}
+
+.blog .overlap-group-14 {
+  height: 140px;
+  position: relative;
+}
+
+.blog .blackbackground-8 {
+  background-color: #121212;
+  border: 1px solid;
+  border-color: #707070;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.blog .text-wrapper-102 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1237px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.blog .user-8 {
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.blog .element-8 {
+  height: 65px;
+  left: 1592px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 65px;
+}
+
+.blog .element-cart-8 {
+  display: block;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.blog .gruppe-65 {
+  display: block;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.blog .icon-white-8 {
+  background-image: url(../../../static/img/icon-white-48.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 81px;
+  width: 67px;
+}
+
+.blog .linie-16 {
+  height: 57px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+
+.blog .requests-8 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.blog .overlap-33 {
+  height: 1289px;
+  left: 90px;
+  position: absolute;
+  top: 624px;
+  width: 1741px;
+}
+
+.blog .background-8 {
+  height: 1244px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.blog .title-5 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  left: 818px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 201px;
+  white-space: nowrap;
+}
+
+.blog .bild-9 {
+  border-radius: 66px;
+  height: 176px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 45px;
+  width: 249px;
+}
+
+.blog .bild-10 {
+  border-radius: 74px;
+  height: 178px;
+  left: 430px;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 210px;
+}
+
+.blog .bild-11 {
+  border-radius: 65px;
+  height: 130px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 235px;
+  width: 140px;
+}
+
+.blog .after-our-first-few {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 561px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-103 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1564px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1184px;
+  white-space: nowrap;
+}
+
+.blog .footer-8 {
+  background-color: transparent;
+  background-image: url(../../../static/img/background-17.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 349px;
+  left: 90px;
+  position: absolute;
+  top: 4769px;
+  width: 1741px;
+}
+
+.blog .auto-script-shop-9 {
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 468px;
+}
+
+.blog .gruppe-66 {
+  height: 302px;
+  left: 1137px;
+  position: absolute;
+  top: 24px;
+  width: 383px;
+}
+
+.blog .text-wrapper-104 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-105 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-106 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-107 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 262px;
+  white-space: nowrap;
+}
+
+.blog .linie-17 {
+  height: 240px;
+  left: 868px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 3px;
+}
+
+.blog .overlap-34 {
+  background-image: url(../../../static/img/background-10.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 783px;
+  left: 90px;
+  position: absolute;
+  top: 2010px;
+  width: 1741px;
+}
+
+.blog .title-6 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  left: 406px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-108 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 756px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.blog .check-it-out-NOW {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 304px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-109 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+}
+
+.blog .party-popper-black {
+  height: 322px;
+  left: 1390px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 312px;
+}
+
+.blog .text-wrapper-110 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1564px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 715px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-111 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 597px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1944px;
+  white-space: nowrap;
+}
+
+.blog .overlap-35 {
+  background-image: url(../../../static/img/background-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 413px;
+  left: 90px;
+  position: absolute;
+  top: 2911px;
+  width: 844px;
+}
+
+.blog .title-7 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  left: 175px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.blog .overlap-36 {
+  height: 210px;
+  left: 68px;
+  position: absolute;
+  top: 183px;
+  width: 755px;
+}
+
+.blog .overlap-37 {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 603px;
+}
+
+.blog .element-sales-in-only {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 50px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-112 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-weight: 400;
+}
+
+.blog .text-wrapper-113 {
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.blog .text-wrapper-114 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.blog .blackstarimage {
+  height: 93px;
+  left: 179px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 93px;
+}
+
+.blog .blackstarimage-2 {
+  height: 93px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 93px;
+}
+
+.blog .blackstarimage-3 {
+  height: 93px;
+  left: 387px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 93px;
+}
+
+.blog .blackstarimage-4 {
+  height: 93px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 93px;
+}
+
+.blog .text-wrapper-115 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 133px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-116 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 598px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 163px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-117 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 597px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2845px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-118 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 1567px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2845px;
+  white-space: nowrap;
+}
+
+.blog .overlap-38 {
+  height: 413px;
+  left: 987px;
+  position: absolute;
+  top: 2911px;
+  width: 844px;
+}
+
+.blog .text-wrapper-119 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 829px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-120 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-121 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-122 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+}
+
+.blog .background-9 {
+  height: 413px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 844px;
+}
+
+.blog .title-8 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  left: 161px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.blog .new-release-from {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 50px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 184px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-123 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 667px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 346px;
+  white-space: nowrap;
+}
+
+.blog .overlap-39 {
+  background-image: url(../../../static/img/background-16.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 987px;
+  position: absolute;
+  top: 4107px;
+  width: 844px;
+}
+
+.blog .text-wrapper-124 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 757px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-125 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+}
+
+.blog .bild-12 {
+  border-radius: 8px;
+  height: 536px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 843px;
+}
+
+.blog .text-wrapper-126 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 666px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 474px;
+  white-space: nowrap;
+}
+
+.blog .blackplaybutton {
+  height: 360px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 360px;
+}
+
+.blog .overlap-40 {
+  border-radius: 9px;
+  height: 536px;
+  left: 987px;
+  position: absolute;
+  top: 3445px;
+  width: 844px;
+}
+
+.blog .background-10 {
+  height: 536px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 844px;
+}
+
+.blog .bild-13 {
+  border-radius: 9px;
+  height: 536px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 844px;
+}
+
+.blog .text-wrapper-127 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 667px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 474px;
+  white-space: nowrap;
+}
+
+.blog .blackplaybutton-2 {
+  height: 360px;
+  left: 242px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 360px;
+}
+
+.blog .overlap-41 {
+  background-image: url(../../../static/img/background-16.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 90px;
+  position: absolute;
+  top: 4107px;
+  width: 844px;
+}
+
+.blog .bild-14 {
+  border-radius: 11px;
+  height: 536px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 844px;
+}
+
+.blog .text-wrapper-128 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 200px;
+  font-weight: 700;
+  left: 695px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  top: 283px;
+  white-space: nowrap;
+}
+
+.blog .overlap-42 {
+  background-image: url(../../../static/img/background-16.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 83px;
+  position: absolute;
+  top: 3445px;
+  width: 844px;
+}
+
+.blog .title-9 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 70px;
+  font-weight: 700;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.blog .overlap-43 {
+  height: 332px;
+  left: 33px;
+  position: absolute;
+  top: 184px;
+  width: 773px;
+}
+
+.blog .element-views-in-only {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-129 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.blog .text-wrapper-130 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 634px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 290px;
+  white-space: nowrap;
+}
