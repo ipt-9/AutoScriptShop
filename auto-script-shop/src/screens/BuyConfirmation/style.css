@@ -1,0 +1,328 @@
+.buy-confirmation {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.buy-confirmation .div-24 {
+  background-color: #000000;
+  height: 1496px;
+  position: relative;
+  width: 1920px;
+}
+
+.buy-confirmation .buttons-2 {
+  background-image: url(../../../static/img/pfad-40-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 105px;
+  left: 90px;
+  position: absolute;
+  top: 845px;
+  width: 701px;
+}
+
+.buy-confirmation .text-wrapper-226 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .step-5 {
+  height: 193px;
+  left: 159px;
+  position: absolute;
+  top: 439px;
+  width: 895px;
+}
+
+.buy-confirmation .overlap-group-24 {
+  height: 188px;
+  position: relative;
+  top: 23px;
+}
+
+.buy-confirmation .transaction {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 70px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.buy-confirmation .text-wrapper-227 {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 112px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .footer-16 {
+  background-color: transparent;
+  height: 373px;
+  left: 90px;
+  position: absolute;
+  top: 1043px;
+  width: 1741px;
+}
+
+.buy-confirmation .overlap-67 {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.buy-confirmation .background-19 {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.buy-confirmation .auto-script-shop-17 {
+  display: block;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.buy-confirmation .gruppe-96 {
+  height: 349px;
+  left: 1113px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.buy-confirmation .text-wrapper-228 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .text-wrapper-229 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .text-wrapper-230 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .terms-conditions-15 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .linie-35 {
+  height: 240px;
+  left: 868px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 3px;
+}
+
+.buy-confirmation .gruppe-97 {
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.buy-confirmation .navbar-11 {
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.buy-confirmation .overlap-68 {
+  height: 140px;
+  position: relative;
+}
+
+.buy-confirmation .icon-black-16 {
+  height: 70px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 59px;
+}
+
+.buy-confirmation .blackbackground-16 {
+  background-color: #121212;
+  border: 1px solid;
+  border-color: #707070;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.buy-confirmation .text-wrapper-231 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1237px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .user-16 {
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.buy-confirmation .element-16 {
+  height: 65px;
+  left: 1592px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 65px;
+}
+
+.buy-confirmation .element-cart-16 {
+  display: block;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.buy-confirmation .gruppe-98 {
+  display: block;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.buy-confirmation .icon-white-16 {
+  background-image: url(../../../static/img/icon-white-48.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 81px;
+  width: 67px;
+}
+
+.buy-confirmation .linie-36 {
+  height: 57px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+
+.buy-confirmation .requests-16 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.buy-confirmation .clean-2 {
+  border-radius: 256px;
+  height: 527px;
+  left: 1259px;
+  object-fit: cover;
+  position: absolute;
+  top: 221px;
+  width: 527px;
+}

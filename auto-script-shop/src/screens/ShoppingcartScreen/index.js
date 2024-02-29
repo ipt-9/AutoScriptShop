@@ -1,0 +1,1 @@
+export { ShoppingcartScreen } from "./ShoppingcartScreen";
