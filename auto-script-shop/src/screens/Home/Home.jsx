@@ -9,11 +9,13 @@ export const Home = () => {
         <footer className="footer">
           <div className="overlap-group">
             <img className="background" alt="Background" src="/img/background-40.png" />
-            <img
-              className="auto-script-shop"
-              alt="Auto script shop"
-              src="/img/auto-script-shop-high-resolution-logo-white-on-transparent-backg-22.png"
-            />
+            <Link to="/home">
+              <img
+                className="auto-script-shop-13"
+                alt="Auto script shop"
+                src="/img/auto-script-shop-high-resolution-logo-white-on-transparent-backg-22.png"
+              />
+            </Link>
             <div className="gruppe">
               <Link className="text-wrapper" to="/about-us">
                 About{" "}
