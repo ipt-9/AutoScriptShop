@@ -1,0 +1,1042 @@
+/* screen - taskboard */
+
+.taskboard {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 2236px;
+  width: 1920px;
+}
+
+.taskboard .navbar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.taskboard .overlap-group5 {
+  height: 108px;
+  position: relative;
+  width: 1920px;
+}
+
+.taskboard .user-128 {
+  cursor: pointer;
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.taskboard .x231-2317666_cart-ico {
+  cursor: pointer;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.taskboard .gruppe-22 {
+  cursor: pointer;
+  display: flex;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.taskboard .linie-3 {
+  height: 57px;
+  left: 958px;
+  top: 26px;
+  width: 3px;
+}
+
+.taskboard .requests {
+  -webkit-text-stroke: 1px var(--white);
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.taskboard .gruppe-35 {
+  align-items: center;
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: #fcfcfc80;
+  border-radius: 30px;
+  display: flex;
+  height: 446px;
+  margin-left: 1px;
+  margin-top: 102px;
+  min-width: 1741px;
+  padding: 9.5px 77.7px;
+}
+
+.taskboard .gruppe-65 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 35.01px;
+  min-width: 445px;
+}
+
+.taskboard .overlap-group {
+  height: 271px;
+  position: relative;
+  width: 445px;
+}
+
+.taskboard .bakcground {
+  height: 271px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.taskboard .icons {
+  align-items: center;
+  gap: 12px;
+  height: 100px;
+  justify-content: flex-end;
+  min-width: 182px;
+}
+
+.taskboard .overlap-group2 {
+  align-self: flex-end;
+  height: 100px;
+  margin-bottom: 0;
+  position: relative;
+  width: 131px;
+}
+
+.taskboard .java {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 41px;
+  position: absolute;
+  top: 63px;
+  width: 39px;
+}
+
+.taskboard .papirus-team-papirus-apps-java512 {
+  margin-bottom: 5.4px;
+  margin-left: 3.3px;
+  margin-top: 3.8px;
+  object-fit: cover;
+  width: 28.53px;
+}
+
+.taskboard .c {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-1 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .overlap-group-1 {
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.taskboard .pfad-7 {
+  height: 38px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 39px;
+}
+
+.taskboard .c-2 {
+  align-items: flex-end;
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-bottom: 21.85px;
+  min-width: 39px;
+  padding: 5.3px 6.6px;
+}
+
+.taskboard .c-plus-plus {
+  align-items: flex-start;
+  display: flex;
+  min-width: 25px;
+  padding: 0 0px;
+}
+
+.taskboard .pfad-container {
+  height: 27px;
+  margin-top: 0;
+  position: relative;
+  width: 25px;
+}
+
+.taskboard .pfad-23 {
+  height: 14px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 13px;
+}
+
+.taskboard .pfad-24 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.taskboard .pfad-25 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.taskboard .pfad-26 {
+  height: 16px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 16px;
+}
+
+.taskboard .pfad-27 {
+  height: 3px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 6px;
+}
+
+.taskboard .quick-integration-fo {
+  -webkit-text-stroke: 1px var(--black);
+  height: 122px;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 136px;
+  width: 370px;
+}
+
+.taskboard .db-integration {
+  left: 196px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.taskboard .reward {
+  -webkit-text-stroke: 0.5px var(--white);
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.taskboard .flex-col {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  margin-left: 115px;
+  min-height: 368px;
+  width: 445px;
+}
+
+.taskboard .title {
+  -webkit-text-stroke: 1px var(--black);
+  color: #fcfcfc;
+  font-family: var(--font-family-malgungothic-regular);
+  font-size: 57px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 57px;
+  margin-right: 21.3px;
+  min-height: 78px;
+  min-width: 353px;
+  white-space: nowrap;
+}
+
+.taskboard .c-3 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-4 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .c-5 {
+  align-items: flex-end;
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-bottom: 21.85px;
+  min-width: 39px;
+  padding: 5.3px 6.6px;
+}
+
+.taskboard .security-check {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.taskboard .overlap-group5-1 {
+  height: 271px;
+  margin-left: 114px;
+  margin-top: 37.01px;
+  position: relative;
+  width: 445px;
+}
+
+.taskboard .overlap-group1 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.taskboard .integrate-api {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.taskboard .gruppe-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  height: 1082px;
+  margin-left: 5px;
+  margin-top: 65px;
+  min-width: 1809px;
+}
+
+.taskboard .gruppe-50 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  min-height: 1082px;
+  width: 335px;
+}
+
+.taskboard .type {
+  -webkit-text-stroke: 1px var(--white);
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 25px;
+  min-height: 42px;
+  white-space: nowrap;
+}
+
+.taskboard .overlap-group4 {
+  height: 161px;
+  margin-left: 1px;
+  margin-top: 10px;
+  position: relative;
+  width: 190px;
+}
+
+.taskboard .komponente-30-33 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+}
+
+.taskboard .komponente-30-34 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 68px;
+}
+
+.taskboard .komponente-30-35 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 102px;
+}
+
+.taskboard .komponente-30-36 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 136px;
+}
+
+.taskboard .overlap-group3 {
+  height: 134px;
+  position: relative;
+  width: 272px;
+}
+
+.taskboard .surname {
+  -webkit-text-stroke: 1px var(--white);
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.taskboard .overlap-group2-2 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 272px;
+}
+
+.taskboard .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--white);
+  display: flex;
+  height: 24px;
+  min-width: 33px;
+  padding: 4.5px 8px;
+}
+
+.taskboard .name {
+  -webkit-text-stroke: 1px var(--white);
+  letter-spacing: 0;
+  line-height: 8px;
+  min-height: 13px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.taskboard .freelancer-rating {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: flex-end;
+  color: #fffdfd;
+  font-family: var(--font-family-malgungothic-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 6px;
+  min-height: 42px;
+  min-width: 238px;
+  white-space: nowrap;
+}
+
+.taskboard .text-2 {
+  -webkit-text-stroke: 1px var(--white);
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -1px;
+  margin-left: 20px;
+  min-height: 20px;
+  min-width: 23px;
+  white-space: nowrap;
+}
+
+.taskboard .gruppe-24 {
+  align-items: flex-end;
+  display: flex;
+  margin-bottom: 21px;
+  margin-left: 36px;
+  margin-top: 36px;
+  min-width: 159px;
+}
+
+.taskboard .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 2px;
+  min-height: 155px;
+  width: 25px;
+}
+
+.taskboard .ellipse {
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 12.5px/11.5px;
+  height: 23px;
+  width: 25px;
+}
+
+.taskboard .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -4.5px;
+  min-height: 232px;
+  width: 134px;
+}
+
+.taskboard .filter-4 {
+  -webkit-text-stroke: 1px var(--white);
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 42px;
+  white-space: nowrap;
+}
+
+.taskboard .c-6 {
+  -webkit-text-stroke: 1px var(--white);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 25px;
+  margin-top: 30px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.taskboard .python {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-right: 31px;
+  margin-top: 11px;
+  min-height: 23px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.taskboard .flex-col-item {
+  -webkit-text-stroke: 1px var(--white);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 25px;
+  margin-top: 11px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.taskboard .power-shell {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 3px;
+  margin-top: 11px;
+  min-height: 23px;
+  min-width: 87px;
+  white-space: nowrap;
+}
+
+.taskboard .gruppe-60 {
+  align-items: flex-start;
+  display: flex;
+  gap: 49px;
+  height: 853px;
+  min-width: 1433px;
+}
+
+.taskboard .gruppe-60-item {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 853px;
+  width: 445px;
+}
+
+.taskboard .gruppe-74 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 445px;
+}
+
+.taskboard .icons-1 {
+  align-items: flex-start;
+  gap: 12px;
+  height: 100px;
+  justify-content: flex-end;
+  min-width: 182px;
+  padding: 0px 0;
+}
+
+.taskboard .overlap-group2-1 {
+  height: 100px;
+  position: relative;
+  width: 131px;
+}
+
+.taskboard .c-7 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-8 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .c-9 {
+  align-items: flex-end;
+  align-self: center;
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-bottom: 21.85px;
+  min-width: 39px;
+  padding: 5.3px 6.6px;
+}
+
+.taskboard .c-10 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-11 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .c-12 {
+  align-items: flex-end;
+  align-self: center;
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-bottom: 21.85px;
+  min-width: 39px;
+  padding: 5.3px 6.6px;
+}
+
+.taskboard .overlap-group-3 {
+  height: 271px;
+  margin-left: 0;
+  position: relative;
+  width: 445px;
+}
+
+.taskboard .overlap-group1-1 {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.taskboard .c-13 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-14 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .enhance-ui {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.taskboard .c-15 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-16 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .optimize-code {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.taskboard .icons-2 {
+  height: 76px;
+  width: 108px;
+}
+
+.taskboard .python-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  min-width: 107.53px;
+  padding: 0 0px;
+}
+
+.taskboard .overlap-group-4 {
+  height: 76px;
+  position: relative;
+  width: 108px;
+}
+
+.taskboard .build-tests {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.taskboard .c-17 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-18 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .c-19 {
+  align-items: flex-end;
+  align-self: center;
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-bottom: 21.85px;
+  min-width: 39px;
+  padding: 5.3px 6.6px;
+}
+
+.taskboard .fix-bugs {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.taskboard .integrate-api-1 {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.taskboard .c-20 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-21 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .c-22 {
+  align-items: flex-end;
+  align-self: center;
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  margin-bottom: 21.85px;
+  min-width: 39px;
+  padding: 5.3px 6.6px;
+}
+
+.taskboard .merge-code {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.taskboard .c-23 {
+  background-image: url(../img/pfad-10-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.taskboard .c-24 {
+  height: 28.43px;
+  margin-left: 4.3px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 28.43px;
+}
+
+.taskboard .migrate-data {
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.taskboard .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-right: 63px;
+  margin-top: 38px;
+  min-width: 1741px;
+  width: auto;
+}
+
+.taskboard .overlap-group-5 {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.taskboard .background {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.taskboard .auto-script-shop-hig {
+  cursor: pointer;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.taskboard .gruppe-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1113px;
+  min-height: 349px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.taskboard .about {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 6px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.taskboard .disclaimer {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 38px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.taskboard .linie-2 {
+  height: 240px;
+  left: 868px;
+  top: 54px;
+  width: 3px;
+}
+
+.taskboard .gruppe-49 {
+  display: flex;
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.taskboard .icons-3 {
+  display: flex;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.taskboard .komponente-30 {
+  background-color: var(--white);
+  border-radius: 8px;
+  width: 25px;
+}
+
+.taskboard .linie {
+  object-fit: cover;
+  position: absolute;
+}

@@ -1,0 +1,204 @@
+/* screen - logout */
+
+.logout {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1487px;
+  width: 1920px;
+}
+
+.logout .navbar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.logout .overlap-group1 {
+  height: 108px;
+  position: relative;
+  width: 1920px;
+}
+
+.logout .user-128 {
+  cursor: pointer;
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.logout .x231-2317666_cart-ico {
+  cursor: pointer;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.logout .gruppe-22 {
+  cursor: pointer;
+  height: 81px;
+  left: 59px;
+  top: 14px;
+  width: 98px;
+}
+
+.logout .linie-3 {
+  height: 57px;
+  left: 958px;
+  top: 26px;
+}
+
+.logout .requests {
+  -webkit-text-stroke: 1px var(--white);
+  cursor: pointer;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.logout .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 487px;
+  margin-left: 27px;
+  margin-top: 113px;
+  min-width: 1625px;
+}
+
+.logout .step-1 {
+  display: flex;
+  height: 186px;
+  margin-top: 137px;
+  width: 611px;
+}
+
+.logout .log-out-successful {
+  -webkit-text-stroke: 1px var(--gallery);
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-bottom: -25px;
+  margin-right: -2px;
+  margin-top: 23px;
+  white-space: nowrap;
+  width: 611px;
+}
+
+.logout .clean {
+  border-radius: 256px;
+  height: 527px;
+  object-fit: cover;
+  width: 527px;
+}
+
+.logout .buttons {
+  align-items: flex-end;
+  align-self: flex-start;
+  background-image: url(../img/pfad-40-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 105px;
+  justify-content: flex-end;
+  margin-left: 90px;
+  margin-top: 97px;
+  min-width: 701px;
+  padding: 14px 137px;
+}
+
+.logout .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-right: 41px;
+  margin-top: 102px;
+  min-width: 1741px;
+  width: auto;
+}
+
+.logout .overlap-group {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.logout .background {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.logout .auto-script-shop-hig {
+  cursor: pointer;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.logout .gruppe-38 {
+  align-items: flex-start;
+  flex-direction: column;
+  left: 1113px;
+  min-height: 349px;
+  top: 24px;
+  width: 325px;
+}
+
+.logout .about {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 6px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.logout .disclaimer {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 38px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.logout .linie-2 {
+  height: 240px;
+  left: 868px;
+  top: 54px;
+}
+
+.logout .gruppe-49 {
+  height: 46px;
+  left: 1479px;
+  top: 24px;
+  width: 85px;
+}
+
+.logout .linie {
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}

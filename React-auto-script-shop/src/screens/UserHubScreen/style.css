@@ -1,0 +1,490 @@
+.user-hub-screen {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.user-hub-screen .user-hub-2 {
+  background-color: #000000;
+  height: 1903px;
+  position: relative;
+  width: 1920px;
+}
+
+.user-hub-screen .overlap-86 {
+  height: 748px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.user-hub-screen .overlap-87 {
+  border-radius: 20px;
+  height: 237px;
+  left: 90px;
+  position: absolute;
+  top: 487px;
+  width: 372px;
+}
+
+.user-hub-screen .settings-2 {
+  height: 66px;
+  left: 37px;
+  position: absolute;
+  top: 67px;
+  width: 299px;
+}
+
+.user-hub-screen .text-wrapper-270 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .bild-22 {
+  border-radius: 20px;
+  height: 237px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 372px;
+}
+
+.user-hub-screen .tile-4 {
+  -webkit-text-stroke: 1px #c6dee6;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 57px;
+  font-weight: 400;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 57px;
+  position: absolute;
+  top: 252px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .overlap-88 {
+  height: 679px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.user-hub-screen .navbar-16 {
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.user-hub-screen .overlap-89 {
+  height: 140px;
+  position: relative;
+}
+
+.user-hub-screen .icon-black-21 {
+  height: 70px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 59px;
+}
+
+.user-hub-screen .blackbackground-21 {
+  background-color: #121212;
+  border: 1px solid;
+  border-color: #707070;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.user-hub-screen .text-wrapper-271 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1237px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .user-21 {
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.user-hub-screen .element-21 {
+  height: 65px;
+  left: 1592px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 65px;
+}
+
+.user-hub-screen .element-cart-21 {
+  display: block;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.user-hub-screen .gruppe-118 {
+  display: block;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.user-hub-screen .icon-white-21 {
+  background-image: url(../../../static/img/icon-white-48.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 81px;
+  width: 67px;
+}
+
+.user-hub-screen .linie-45 {
+  height: 57px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+
+.user-hub-screen .requests-21 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .text-wrapper-272 {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1674px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .date-of-purchase {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 1185px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 585px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .rechteck-10 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 43px;
+  height: 483px;
+  left: 1639px;
+  position: absolute;
+  top: 116px;
+  width: 267px;
+}
+
+.user-hub-screen .text-wrapper-273 {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1667px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 125px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .text-wrapper-274 {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1667px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 184px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .text-wrapper-275 {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 1667px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 230px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .autoadminpro-price {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 50px;
+  left: 489px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 515px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .text-wrapper-276 {
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.user-hub-screen .text-wrapper-277 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.user-hub-screen .text-wrapper-278 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.user-hub-screen .linie-46 {
+  height: 150px;
+  left: 1100px;
+  object-fit: cover;
+  position: absolute;
+  top: 545px;
+  width: 8px;
+}
+
+.user-hub-screen .footer-21 {
+  background-color: transparent;
+  height: 373px;
+  left: 65px;
+  position: absolute;
+  top: 1483px;
+  width: 1741px;
+}
+
+.user-hub-screen .overlap-group-29 {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.user-hub-screen .background-26 {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.user-hub-screen .auto-script-shop-22 {
+  display: block;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.user-hub-screen .gruppe-119 {
+  height: 349px;
+  left: 1113px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.user-hub-screen .text-wrapper-279 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .text-wrapper-280 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .text-wrapper-281 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .terms-conditions-20 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .linie-47 {
+  height: 240px;
+  left: 868px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 3px;
+}
+
+.user-hub-screen .gruppe-120 {
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.user-hub-screen .datadynamoscript {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 50px;
+  left: 489px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 884px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .bild-23 {
+  border-radius: 25px;
+  height: 237px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 856px;
+  width: 372px;
+}
+
+.user-hub-screen .date-of-purchase-2 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 1185px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 940px;
+  white-space: nowrap;
+}
+
+.user-hub-screen .linie-48 {
+  height: 150px;
+  left: 1100px;
+  object-fit: cover;
+  position: absolute;
+  top: 900px;
+  width: 8px;
+}

@@ -1,0 +1,341 @@
+.disclamer {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.disclamer .div-7 {
+  background-color: #000000;
+  height: 2969px;
+  position: relative;
+  width: 1920px;
+}
+
+.disclamer .overlap-27 {
+  background-image: url(../../../static/img/background-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2304px;
+  left: 90px;
+  position: absolute;
+  top: 212px;
+  width: 1734px;
+}
+
+.disclamer .title-3 {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 70px;
+  font-weight: 400;
+  left: 391px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.disclamer .overlap-28 {
+  height: 1980px;
+  left: 149px;
+  position: absolute;
+  top: 218px;
+  width: 1505px;
+}
+
+.disclamer .text-wrapper-76 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.disclamer .text-wrapper-77 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 721px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.disclamer .disclaimer-for {
+  -webkit-text-stroke: 1px #eeeeee;
+  color: #eeeeee;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 70px;
+  height: 1980px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  width: 1505px;
+}
+
+.disclamer .text-wrapper-78 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-weight: 400;
+}
+
+.disclamer .text-wrapper-79 {
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.disclamer .text-wrapper-80 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.disclamer .footer-5 {
+  background-color: transparent;
+  height: 373px;
+  left: 90px;
+  position: absolute;
+  top: 2569px;
+  width: 1741px;
+}
+
+.disclamer .overlap-group-11 {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.disclamer .background-5 {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.disclamer .auto-script-shop-6 {
+  display: block;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.disclamer .gruppe-56 {
+  height: 349px;
+  left: 1113px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.disclamer .text-wrapper-81 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.disclamer .text-wrapper-82 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.disclamer .text-wrapper-83 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.disclamer .terms-conditions-6 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.disclamer .linie-10 {
+  height: 240px;
+  left: 868px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 3px;
+}
+
+.disclamer .gruppe-57 {
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.disclamer .navbar-4 {
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.disclamer .overlap-29 {
+  height: 140px;
+  position: relative;
+}
+
+.disclamer .icon-black-5 {
+  height: 70px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 59px;
+}
+
+.disclamer .blackbackground-5 {
+  background-color: #121212;
+  border: 1px solid;
+  border-color: #707070;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.disclamer .text-wrapper-84 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1237px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.disclamer .user-5 {
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.disclamer .element-5 {
+  height: 65px;
+  left: 1592px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 65px;
+}
+
+.disclamer .element-cart-5 {
+  display: block;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.disclamer .gruppe-58 {
+  display: block;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.disclamer .icon-white-5 {
+  background-image: url(../../../static/img/icon-white-48.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 81px;
+  width: 67px;
+}
+
+.disclamer .linie-11 {
+  height: 57px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+
+.disclamer .requests-5 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
