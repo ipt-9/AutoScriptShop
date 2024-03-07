@@ -1,0 +1,196 @@
+/* screen - disclamer */
+
+.disclamer {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 3171px;
+  width: 1920px;
+}
+
+.disclamer .navbar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.disclamer .overlap-group {
+  height: 108px;
+  position: relative;
+  width: 1920px;
+}
+
+.disclamer .user-128 {
+  cursor: pointer;
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.disclamer .x231-2317666_cart-ico {
+  cursor: pointer;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.disclamer .gruppe-22 {
+  cursor: pointer;
+  display: flex;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.disclamer .linie-3 {
+  height: 57px;
+  left: 958px;
+  top: 26px;
+}
+
+.disclamer .requests {
+  -webkit-text-stroke: 1px var(--white);
+  cursor: pointer;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.disclamer .gruppe-107 {
+  align-items: flex-end;
+  background-image: url(../img/background-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  margin-right: 6.0px;
+  margin-top: 104px;
+  min-height: 2304px;
+  padding: 58.5px 80px;
+  width: 1734px;
+}
+
+.disclamer .title {
+  -webkit-text-stroke: 1px var(--gallery);
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-left: 8.0px;
+  min-height: 95px;
+  min-width: 960px;
+  white-space: nowrap;
+}
+
+.disclamer .disclaimer-for-auto-s {
+  -webkit-text-stroke: 1px var(--gallery);
+  color: var(--gallery);
+  font-family: var(--font-family-malgun_gothic);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 1980px;
+  letter-spacing: 0;
+  line-height: 35px;
+  width: 1505px;
+}
+
+.disclamer .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  margin-top: 155px;
+  min-width: 1741px;
+  width: auto;
+}
+
+.disclamer .overlap-group1 {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.disclamer .background {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.disclamer .auto-script-shop-hig {
+  cursor: pointer;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.disclamer .gruppe-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1113px;
+  min-height: 349px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.disclamer .about {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 6px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.disclamer .disclaimer {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 38px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.disclamer .linie-2 {
+  height: 240px;
+  left: 868px;
+  top: 54px;
+}
+
+.disclamer .gruppe-49 {
+  display: flex;
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.disclamer .linie {
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}

@@ -1,0 +1,1671 @@
+.shop {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.shop .div-4 {
+  background-color: #000000;
+  height: 2452px;
+  position: relative;
+  width: 1920px;
+}
+
+.shop .div-5 {
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.shop .icon-black-3 {
+  height: 70px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 59px;
+}
+
+.shop .overlap-group-7 {
+  height: 140px;
+  position: relative;
+}
+
+.shop .blackbackground-3 {
+  background-color: #121212;
+  border: 1px solid;
+  border-color: #707070;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.shop .text-wrapper-38 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1237px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.shop .user-3 {
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.shop .element-3 {
+  height: 65px;
+  left: 1592px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 65px;
+}
+
+.shop .element-cart-3 {
+  display: block;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.shop .gruppe-32 {
+  display: block;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.shop .icon-white-3 {
+  background-image: url(../../../static/img/icon-white-48.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 81px;
+  width: 67px;
+}
+
+.shop .linie-5 {
+  height: 57px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+
+.shop .requests-3 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fcfcfd;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-33 {
+  height: 1082px;
+  left: 31px;
+  position: absolute;
+  top: 180px;
+  width: 335px;
+}
+
+.shop .filter-6 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 30px;
+  height: 161px;
+  left: 2px;
+  position: absolute;
+  top: 595px;
+  width: 333px;
+}
+
+.shop .text-wrapper-39 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #fffdfd;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-34 {
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 90px;
+  width: 115px;
+}
+
+.shop .gruppe-35 {
+  height: 24px;
+  position: relative;
+  width: 117px;
+}
+
+.shop .ellipse-7 {
+  background-color: #eeeeee;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 12px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.shop .text-wrapper-40 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-41 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.shop .filter-7 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 30px;
+  height: 289px;
+  left: 0;
+  position: absolute;
+  top: 793px;
+  width: 333px;
+}
+
+.shop .gruppe-36 {
+  height: 248px;
+  left: 35px;
+  position: relative;
+  top: 19px;
+  width: 137px;
+}
+
+.shop .filter-8 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-42 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 230px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-43 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-44 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 94px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-45 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 162px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-46 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 196px;
+  white-space: nowrap;
+}
+
+.shop .ellipse-8 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12.5px/11.5px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 25px;
+}
+
+.shop .ellipse-9 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12.5px/11.5px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 124px;
+  width: 25px;
+}
+
+.shop .ellipse-10 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12.5px/11.5px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 157px;
+  width: 25px;
+}
+
+.shop .ellipse-11 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12.5px/11.5px;
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 190px;
+  width: 25px;
+}
+
+.shop .pfad-10 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 25px;
+}
+
+.shop .filter-9 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 30px;
+  height: 323px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 333px;
+}
+
+.shop .text-wrapper-47 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.shop .overlap-group-8 {
+  height: 161px;
+  left: 43px;
+  position: absolute;
+  top: 117px;
+  width: 190px;
+}
+
+.shop .gruppe-37 {
+  height: 160px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.shop .text-wrapper-48 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 107px;
+  white-space: nowrap;
+}
+
+.shop .filter-web-template-2 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.shop .text-wrapper-49 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.shop .komponente-8 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.shop .text-wrapper-50 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-51 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 73px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-52 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.shop .komponente-9 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 25px;
+}
+
+.shop .komponente-10 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 68px;
+  width: 25px;
+}
+
+.shop .komponente-11 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 102px;
+  width: 25px;
+}
+
+.shop .komponente-12 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 136px;
+  width: 25px;
+}
+
+.shop .filter-automation-2 {
+  height: 25px;
+  left: 42px;
+  position: absolute;
+  top: 82px;
+  width: 191px;
+}
+
+.shop .rechteck-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-radius: 8px;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.shop .filter-10 {
+  background-image: url(../../../static/img/pfad-35-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 198px;
+  left: 0;
+  position: absolute;
+  top: 360px;
+  width: 333px;
+}
+
+.shop .overlap-13 {
+  height: 134px;
+  left: 24px;
+  position: relative;
+  top: 45px;
+  width: 272px;
+}
+
+.shop .price-range-2 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.shop .gruppe-38 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 272px;
+}
+
+.shop .overlap-14 {
+  height: 64px;
+  position: relative;
+}
+
+.shop .linie-6 {
+  height: 1px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 242px;
+}
+
+.shop .ellipse-12 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 12px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.shop .pfad-11 {
+  height: 24px;
+  left: 248px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.shop .gruppe-39 {
+  height: 47px;
+  left: 225px;
+  position: absolute;
+  top: 17px;
+  width: 33px;
+}
+
+.shop .overlap-group-9 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 33px;
+}
+
+.shop .text-wrapper-53 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 8px;
+  font-weight: 400;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.shop .polygon-2 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.shop .gruppe-40 {
+  height: 47px;
+  left: 23px;
+  position: absolute;
+  top: 16px;
+  width: 33px;
+}
+
+.shop .didn-t-find-what-you-wrapper {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 30px;
+  height: 100px;
+  left: 426px;
+  position: absolute;
+  top: 1873px;
+  width: 1405px;
+}
+
+.shop .didn-t-find-what-you {
+  color: #757aff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 35px;
+  left: 220px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-54 {
+  color: #eeeeee;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-weight: 400;
+}
+
+.shop .text-wrapper-55 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.shop .footer-3 {
+  background-color: transparent;
+  height: 373px;
+  left: 90px;
+  position: absolute;
+  top: 2045px;
+  width: 1741px;
+}
+
+.shop .overlap-15 {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.shop .background-3 {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.shop .auto-script-shop-4 {
+  display: block;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.shop .gruppe-41 {
+  height: 349px;
+  left: 1113px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.shop .text-wrapper-56 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-57 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-58 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.shop .terms-conditions-4 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  display: block;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 268px;
+  white-space: nowrap;
+}
+
+.shop .linie-7 {
+  height: 240px;
+  left: 868px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 3px;
+}
+
+.shop .gruppe-42 {
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.shop .gruppe-43 {
+  height: 649px;
+  left: 426px;
+  position: absolute;
+  top: 1188px;
+  width: 1461px;
+}
+
+.shop .overlap-16 {
+  border-radius: 30px;
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 461px;
+}
+
+.shop .product-pannel {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #eeeeee80;
+  border-radius: 30px;
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 461px;
+}
+
+.shop .text-wrapper-59 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.shop .bild-2 {
+  border-radius: 20px;
+  height: 114px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 179px;
+}
+
+.shop .package-management {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 232px;
+  white-space: nowrap;
+}
+
+.shop .logging-and {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-60 {
+  font-family: "MalgunGothic-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.shop .text-wrapper-61 {
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-weight: 400;
+}
+
+.shop .overlap-17 {
+  border-radius: 30px;
+  height: 313px;
+  left: 502px;
+  position: absolute;
+  top: 0;
+  width: 461px;
+}
+
+.shop .package-management-2 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 232px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-2 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-2 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.shop .overlap-18 {
+  border-radius: 30px;
+  height: 313px;
+  left: 1000px;
+  position: absolute;
+  top: 0;
+  width: 461px;
+}
+
+.shop .package-management-3 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 232px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-3 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 256px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-3 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.shop .overlap-19 {
+  border-radius: 30px;
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 336px;
+  width: 461px;
+}
+
+.shop .text-wrapper-62 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.shop .package-management-4 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 226px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-4 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-4 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.shop .overlap-20 {
+  border-radius: 30px;
+  height: 313px;
+  left: 502px;
+  position: absolute;
+  top: 336px;
+  width: 461px;
+}
+
+.shop .bild-3 {
+  border-radius: 20px;
+  height: 114px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 179px;
+}
+
+.shop .package-management-5 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-5 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 225px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-5 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-44 {
+  display: block;
+  height: 313px;
+  left: 426px;
+  position: absolute;
+  top: 180px;
+  width: 461px;
+}
+
+.shop .overlap-21 {
+  border-radius: 30px;
+  height: 313px;
+  position: relative;
+}
+
+.shop .package-management-6 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 234px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-6 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 232px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-6 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+}
+
+.shop .bakcground-2 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #6a6a6a;
+  border-radius: 30px;
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 461px;
+}
+
+.shop .autoadmin-pro {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.shop .bild-4 {
+  border-radius: 20px;
+  height: 137px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 216px;
+}
+
+.shop .gruppe-45 {
+  background-color: #000000;
+  border: 1px solid;
+  border-color: #eeeeee80;
+  border-radius: 30px;
+  height: 313px;
+  left: 1426px;
+  position: absolute;
+  top: 180px;
+  width: 461px;
+}
+
+.shop .text-wrapper-63 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.shop .bild-5 {
+  border-radius: 20px;
+  height: 114px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 179px;
+}
+
+.shop .timetable {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 234px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-64 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-7 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 184px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-46 {
+  height: 313px;
+  left: 926px;
+  position: absolute;
+  top: 180px;
+  width: 461px;
+}
+
+.shop .data-analyze-data {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+}
+
+.shop .text-wrapper-65 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 238px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-8 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 194px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-47 {
+  height: 313px;
+  left: 426px;
+  position: absolute;
+  top: 516px;
+  width: 461px;
+}
+
+.shop .bild-6 {
+  border-radius: 20px;
+  height: 114px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 179px;
+}
+
+.shop .gruppe-48 {
+  height: 313px;
+  left: 926px;
+  position: absolute;
+  top: 516px;
+  width: 461px;
+}
+
+.shop .bild-7 {
+  border-radius: 20px;
+  height: 114px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 179px;
+}
+
+.shop .package-management-7 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 232px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-7 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-9 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-49 {
+  height: 313px;
+  left: 1426px;
+  position: absolute;
+  top: 512px;
+  width: 464px;
+}
+
+.shop .overlap-22 {
+  height: 313px;
+  position: relative;
+}
+
+.shop .bild-8 {
+  border-radius: 20px;
+  height: 114px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 179px;
+}
+
+.shop .package-management-8 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 236px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-8 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 273px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-10 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 190px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-50 {
+  height: 313px;
+  left: 426px;
+  position: absolute;
+  top: 852px;
+  width: 461px;
+}
+
+.shop .package-management-9 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 236px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-9 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-51 {
+  height: 313px;
+  left: 928px;
+  position: absolute;
+  top: 852px;
+  width: 461px;
+}
+
+.shop .package-management-10 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 236px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-10 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 260px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-11 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+}
+
+.shop .gruppe-52 {
+  height: 313px;
+  left: 1426px;
+  position: absolute;
+  top: 852px;
+  width: 464px;
+}
+
+.shop .package-management-11 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.shop .logging-and-11 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #f8f8f8;
+  font-family: "MalgunGothic-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 273px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 226px;
+  white-space: nowrap;
+}
+
+.shop .price-CHF-12 {
+  -webkit-text-stroke: 1px #ffffff;
+  color: #ffffff;
+  font-family: "Malgun Gothic", Helvetica;
+  font-size: 20px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 180px;
+  white-space: nowrap;
+}

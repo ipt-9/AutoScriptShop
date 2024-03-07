@@ -1,0 +1,612 @@
+/* screen - home */
+
+.home {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 5573px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.home .navbar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.home .overlap-group1 {
+  height: 108px;
+  position: relative;
+  width: 1920px;
+}
+
+.home .user-128 {
+  cursor: pointer;
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.home .x231-2317666_cart-ico {
+  cursor: pointer;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.home .gruppe-22 {
+  display: flex;
+  height: 81px;
+  left: 59px;
+  position: absolute;
+  top: 14px;
+  width: 98px;
+}
+
+.home .linie-3 {
+  height: 57px;
+  left: 958px;
+  top: 26px;
+}
+
+.home .requests {
+  -webkit-text-stroke: 1px var(--white);
+  cursor: pointer;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.home .komponente-container {
+  align-items: flex-end;
+  display: flex;
+  height: 568px;
+  margin-right: 80.0px;
+  margin-top: 184px;
+  min-width: 1678px;
+}
+
+.home .komponente-61-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 349px;
+}
+
+.home .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/dall-e-2023-12-21-10-54-33---create-a-minimalistic-image-with-a-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  height: 556px;
+  justify-content: flex-end;
+  min-width: 349px;
+  padding: 38px 56px;
+}
+
+.home .get-a-product {
+  -webkit-text-stroke: 1px var(--black-2);
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 94px;
+  white-space: nowrap;
+}
+
+.home .komponente-6 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 90px;
+  min-width: 349px;
+}
+
+.home .t-container {
+  border-radius: 30px;
+  height: 556px;
+  position: relative;
+  width: 349px;
+}
+
+.home .dalle-2023-12-21-103 {
+  cursor: pointer;
+  height: 556px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 349px;
+}
+
+.home .make-a-request {
+  -webkit-text-stroke: 1px var(--black-2);
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.home .offer-my-product {
+  -webkit-text-stroke: 1px var(--black-2);
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.home .komponente-64-1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 102px;
+  min-width: 349px;
+}
+
+.home .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/dall-e-2023-12-21-10-53-15---create-a-minimalistic-image-with-a-@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  height: 556px;
+  justify-content: flex-end;
+  min-width: 349px;
+  padding: 43.5px 26px;
+}
+
+.home .work-on-request {
+  -webkit-text-stroke: 1px var(--black-2);
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.home .scroll-down-to-learn-more-about-us {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 47px;
+  margin-right: 72.0px;
+  margin-top: 102px;
+  min-height: 64px;
+  min-width: 778px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .right-arrow {
+  height: 64px;
+  margin-top: 18px;
+  object-fit: cover;
+  width: 64px;
+}
+
+.home .flex-row {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 26px;
+  height: 739px;
+  margin-left: -179px;
+  margin-top: 180px;
+  min-width: 2367px;
+}
+
+.home .triangle {
+  height: 521px;
+  object-fit: cover;
+  width: 521px;
+}
+
+.home .overlap-group6 {
+  align-self: flex-end;
+  height: 687px;
+  position: relative;
+  width: 1820px;
+}
+
+.home .what-is-a-s-s-and-how-does-it-work {
+  -webkit-text-stroke: 1px var(--white-2);
+  color: var(--white);
+  font-family: var(--font-family-malgungothic-regular);
+  font-size: 67px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 67px;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  white-space: nowrap;
+}
+
+.home .hexagon {
+  height: 687px;
+  left: 1133px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 687px;
+}
+
+.home .pfad-48 {
+  height: 1px;
+  left: 1184px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 1px;
+}
+
+.home .overlap-group7 {
+  height: 716px;
+  margin-left: 1.0px;
+  margin-top: 49px;
+  position: relative;
+  width: 829px;
+}
+
+.home .auto-script-shop {
+  -webkit-text-stroke: 1px var(--white-2);
+  color: var(--white);
+  font-family: var(--font-family-malgun_gothic);
+  font-size: 67px;
+  font-weight: 700;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .span1 {
+  font-family: var(--font-family-malgungothic-bold);
+  font-size: 57px;
+}
+
+.home .bild-39 {
+  height: 615px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 829px;
+}
+
+.home .we-are-your-marketpl {
+  -webkit-text-stroke: 1px var(--white-2);
+  color: var(--white);
+  font-family: var(--font-family-malgungothic-regular);
+  font-size: 67px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 67px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  min-height: 180px;
+  min-width: 1006px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .for-all-end-users {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 67px;
+  margin-left: 2.0px;
+  margin-top: 258px;
+  min-height: 91px;
+  min-width: 570px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .gruppe-90 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  margin-left: 2.0px;
+  margin-top: 60px;
+  min-height: 547px;
+  padding: 0 3.0px;
+  width: 1376px;
+}
+
+.home .gruppe-89 {
+  align-items: flex-end;
+  display: flex;
+  height: 133px;
+  margin-left: 2.0px;
+  min-width: 1368px;
+}
+
+.home .browse-through-finished-products-here {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 47px;
+  margin-bottom: -8px;
+  min-height: 126px;
+  min-width: 482px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .or {
+  margin-bottom: 3px;
+  margin-left: 146px;
+}
+
+.home .make-a-requestfor-a {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 47px;
+  margin-bottom: -17px;
+  margin-left: 107px;
+  min-height: 126px;
+  min-width: 520px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .gruppe-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 310px;
+  height: 380px;
+  margin-left: 0.12px;
+  min-width: 1370px;
+}
+
+.home .gruppe-46 {
+  cursor: pointer;
+  display: flex;
+  height: 362px;
+  transform: rotate(1.00deg);
+  width: 530px;
+}
+
+.home .dalle-2023-12-21-10 {
+  flex: 1;
+  margin-bottom: -4.6px;
+  margin-left: -3.1px;
+  margin-right: -3.1px;
+  margin-top: -4.6px;
+  transform: rotate(-1.00deg);
+  width: 536.3px;
+}
+
+.home .gruppe-80 {
+  align-self: flex-end;
+  display: flex;
+  height: 362px;
+  transform: rotate(1.00deg);
+  width: 530px;
+}
+
+.home .dalle-2023-12-21-104 {
+  cursor: pointer;
+  flex: 1;
+  margin-bottom: -4.6px;
+  margin-left: -3.1px;
+  margin-right: -3.1px;
+  margin-top: -4.6px;
+  transform: rotate(-1.00deg);
+  width: 536.3px;
+}
+
+.home .for-all-creators {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 67px;
+  margin-left: 2.0px;
+  margin-top: 296px;
+  min-height: 91px;
+  min-width: 492px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .gruppe-91 {
+  align-items: flex-start;
+  display: flex;
+  height: 537px;
+  margin-left: 4.0px;
+  margin-top: 40px;
+  min-width: 1455px;
+  padding: 4.6px 0;
+}
+
+.home .flex-col {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  margin-top: 5.83px;
+  min-height: 513px;
+  width: 542px;
+}
+
+.home .list-your-scripts-th {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 47px;
+  min-height: 126px;
+  min-width: 542px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .gruppe-48 {
+  display: flex;
+  height: 353px;
+  margin-right: 2px;
+  width: 518px;
+}
+
+.home .dalle-2023-12-21-105 {
+  cursor: pointer;
+  flex: 1;
+  width: 518px;
+}
+
+.home .or-1 {
+  margin-left: 89px;
+  margin-top: 26.4px;
+}
+
+.home .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: 127px;
+  min-height: 509px;
+  width: 584px;
+}
+
+.home .browse-through-reque {
+  -webkit-text-stroke: 1px var(--white-2);
+  letter-spacing: 0;
+  line-height: 47px;
+  min-height: 126px;
+  min-width: 584px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .gruppe-82 {
+  cursor: pointer;
+  display: flex;
+  height: 362px;
+  margin-left: 2.12px;
+  transform: rotate(1.00deg);
+  width: 530px;
+}
+
+.home .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  margin-top: 197px;
+  min-width: 1741px;
+  width: auto;
+}
+
+.home .overlap-group {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.home .background {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.home .auto-script-shop-hig {
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.home .gruppe-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1113px;
+  min-height: 349px;
+  position: absolute;
+  top: 24px;
+  width: 325px;
+}
+
+.home .about {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 6px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.home .disclaimer {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 38px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.home .linie-2 {
+  height: 240px;
+  left: 868px;
+  top: 54px;
+}
+
+.home .gruppe-49 {
+  display: flex;
+  height: 46px;
+  left: 1479px;
+  position: absolute;
+  top: 24px;
+  width: 85px;
+}
+
+.home .dalle-2023-12-21 {
+  border-radius: 30px;
+  object-fit: cover;
+}
+
+.home .linie {
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+
+.home .or-2 {
+  -webkit-text-stroke: 1px var(--white-2);
+  color: #c7ebef;
+  font-family: var(--font-family-malgungothic-regular);
+  font-size: 80px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 80px;
+  min-height: 108px;
+  min-width: 113px;
+  white-space: nowrap;
+}

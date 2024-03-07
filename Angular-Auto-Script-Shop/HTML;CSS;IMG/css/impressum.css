@@ -1,0 +1,230 @@
+/* screen - impressum */
+
+.impressum {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 2187px;
+  width: 1920px;
+}
+
+.impressum .navbar {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.impressum .overlap-group1 {
+  height: 108px;
+  position: relative;
+  width: 1920px;
+}
+
+.impressum .user-128 {
+  cursor: pointer;
+  height: 63px;
+  left: 1779px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 63px;
+}
+
+.impressum .x231-2317666_cart-ico {
+  cursor: pointer;
+  height: 58px;
+  left: 1647px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 132px;
+}
+
+.impressum .gruppe-22 {
+  cursor: pointer;
+  height: 81px;
+  left: 59px;
+  top: 14px;
+  width: 98px;
+}
+
+.impressum .linie-3 {
+  height: 57px;
+  left: 958px;
+  top: 26px;
+}
+
+.impressum .requests {
+  -webkit-text-stroke: 1px var(--white);
+  cursor: pointer;
+  left: 1408px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.impressum .overlap-group2 {
+  height: 1492px;
+  margin-left: 1.0px;
+  margin-top: 91px;
+  position: relative;
+  width: 1525px;
+}
+
+.impressum .title {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--black);
+  font-family: var(--font-family-malgungothic-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 394px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.impressum .rechteck-43 {
+  background-color: var(--black);
+  border: 1px solid;
+  border-color: #fff7f7;
+  border-radius: 20px;
+  height: 1441px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1525px;
+}
+
+.impressum .x2 {
+  -webkit-text-stroke: 1px var(--black);
+  left: 105px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 267px;
+  white-space: nowrap;
+}
+
+.impressum .x3 {
+  -webkit-text-stroke: 1px var(--black);
+  left: 762px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 380px;
+  white-space: nowrap;
+}
+
+.impressum .publisher-and-respo {
+  -webkit-text-stroke: 1px var(--white);
+  color: var(--white);
+  font-family: var(--font-family-malgun_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.impressum .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  margin-top: 43px;
+  min-width: 1741px;
+  width: auto;
+}
+
+.impressum .overlap-group {
+  height: 373px;
+  position: relative;
+  width: 1741px;
+}
+
+.impressum .background {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1741px;
+}
+
+.impressum .auto-script-shop-hig {
+  cursor: pointer;
+  height: 190px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 468px;
+}
+
+.impressum .gruppe-38 {
+  align-items: flex-start;
+  flex-direction: column;
+  left: 1113px;
+  min-height: 349px;
+  top: 24px;
+  width: 325px;
+}
+
+.impressum .about {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 6px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.impressum .impressum-1 {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 37px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.impressum .disclaimer {
+  -webkit-text-stroke: 1px var(--black);
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 38px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.impressum .linie-2 {
+  height: 240px;
+  left: 868px;
+  top: 54px;
+}
+
+.impressum .gruppe-49 {
+  height: 46px;
+  left: 1479px;
+  top: 24px;
+  width: 85px;
+}
+
+.impressum .linie {
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
