@@ -1,0 +1,13 @@
+<div *ngIf="products; else loading">
+  <div *ngFor="let product of products" class="product">
+    <h2>{{ product.title }} ({{ product.price | currency }})</h2>
+    <p>{{ product.body }}</p>
+    <p><strong>Features:</strong> {{ product.features }}</p>
+    <p><strong>Rating:</strong> {{ product.rating }}/10</p>
+    <a href="{{ product.script }}" target="_blank">View Script</a>
+    <p><strong>Created on:</strong> {{ product.created_at | date }}</p>
+  </div>
+</div>
+<ng-template #loading>
+  <p>Loading products...</p>
+</ng-template>
