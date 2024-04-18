@@ -1,1 +1,0 @@
-export { ProductSpesificScreen } from "./ProductSpesificScreen";

@@ -1,1 +1,0 @@
-export { BuyConfirmation } from "./BuyConfirmation";

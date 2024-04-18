@@ -1,1 +1,0 @@
-export { Impressum } from "./Impressum";

@@ -1,1 +1,0 @@
-export { CreateProductScreen } from "./CreateProductScreen";

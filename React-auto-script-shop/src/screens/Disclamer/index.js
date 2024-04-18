@@ -1,1 +1,0 @@
-export { Disclamer } from "./Disclamer";

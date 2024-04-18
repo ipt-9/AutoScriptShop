@@ -1,1 +1,0 @@
-export { ProductSpesific } from "./ProductSpesific";
