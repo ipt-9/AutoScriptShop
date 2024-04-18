@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  border-bottom: white;
+  color: white;
+}
+
+.mat-divider.mat-divider-vertical {
+  height: 4.5vw;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: #121212;
+}
+
+
+span {
+  width: auto;
+  margin: 0.8vw;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: auto;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  border-bottom: white;
+  color: white;
+  background-color: #121212;
+}
+
+mat-toolbar {
+  width: auto;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  background-color: black;
+  border-bottom: white;
+  color: white;
+  border-bottom: white;
+}
+
+.fill-remaining-space {
+  flex: 1 1 auto;
+}
+
+
+.texts {
+  font-size: 2.7vw;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  vertical-align: auto;
+}
+.navlogo{
+  margin-left: 2.5vw;
+}
+
+img {
+  height: 4.5vw ;
+  margin-top: 1.5vw;
+  
+  background-color: #121212;
+}
+
+
+// Searchbar
+

@@ -1,0 +1,20 @@
+img {
+  height: 8vw;
+}
+
+.mat-divider.mat-divider-vertical {
+  height: 12vw;
+}
+
+footer {
+  color: white;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  border-color: white;
+  border-width: thin;
+//  align-content: flex-start;
+}
