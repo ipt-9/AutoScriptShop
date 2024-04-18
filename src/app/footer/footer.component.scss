@@ -1,9 +1,14 @@
+
+
 img {
   height: 8vw;
+  margin-top: 3vw;
+
 }
 
 .mat-divider.mat-divider-vertical {
-  height: 12vw;
+  height: 13vw;
+  margin-top: 1vw;
 }
 
 footer {
@@ -16,5 +21,15 @@ footer {
   justify-content: space-around;
   border-color: white;
   border-width: thin;
+  margin-top: 20vw;
 //  align-content: flex-start;
+}
+.Flex-Box{
+  display: flex;
+  width: 20vw ;
+  margin-right: 6vw;
+  justify-content: space-around;
+}
+p{
+  font-size: 1.5vw;
 }
