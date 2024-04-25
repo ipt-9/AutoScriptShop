@@ -1,5 +1,55 @@
 <body>
   <app-navbar></app-navbar>
-  <h1>Hello</h1>
+
+  <div>
+    <div>
+      <p>{{ title }}</p>
+
+      <br />
+      <br />
+
+      <p>Desription</p>
+      <p>{{ description }}</p>
+    </div>
+    <mat-divider [vertical]="true"></mat-divider>
+    <div>
+      <img
+        src="../../assets/Images/python-logo-png-this-free-icons-png-design-of-python-language-lo-10@1x.png"
+      />
+      <br />
+      <br />
+      <p>Price per device: CHF {{ PRICE }}</p>
+      <div>
+        <p>Amount:</p>
+
+        <input id="1" placeholder="1" />
+      </div>
+
+      <br />
+      <br />
+      <button>Add to cart</button>
+    </div>
+  </div>
+  <br />
+  <br />
+
+  <mat-divider [vertical]="false"></mat-divider>
+
+  <br />
+  <br />
+  <br />
+  <br />
+
+  <div>
+    <p>KeyFeatures</p>
+    <p>{{ Features }}</p>
+
+    <br />
+    <br />
+
+    <p>Created by:</p>
+    <p>{{ Creator }}</p>
+  </div>
+
   <app-footer></app-footer>
 </body>
