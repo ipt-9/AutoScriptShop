@@ -1,3 +1,40 @@
 p {
   color: white;
 }
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.right-side {
+  margin-top: 6vw;
+}
+.left-side {
+  margin-top: 7vw;
+  width: 35%;
+}
+
+.mat-divider.mat-divider-vertical {
+  height: 30vw;
+  margin-top: 16vw;
+  color: white;
+}
+.mat-divider {
+  color: white;
+  height: 1vw;
+}
+.img-size {
+  height: 12vw;
+  width: auto;
+}
+.size-for-description {
+  font-weight: bold;
+  font-size: 3vw;
+}
+.size-for-description-content {
+}
+.size-for-title {
+  font-weight: bold;
+  font-size: 4.5vw;
+}
