@@ -21,9 +21,11 @@
       />
       <br />
       <br />
-      <p>Price per device: CHF {{ PRICE }}</p>
-      <div class="flex-container">
-        <p>Amount:</p>
+      <p class="size-for-description-content">
+        Price per device: CHF {{ PRICE }}
+      </p>
+      <div class="flex-container-price-section">
+        <p class="size-for-description-content">Amount:</p>
         <input id="1" placeholder="1 +" />
       </div>
 
@@ -36,22 +38,22 @@
   <br />
   <br />
 
-  <mat-divider [vertical]="true"></mat-divider>
+  <hr />
 
   <br />
   <br />
   <br />
   <br />
 
-  <div>
-    <p>KeyFeatures</p>
-    <p>{{ Features }}</p>
+  <div class="features-created-by">
+    <p class="size-for-key-features">KeyFeatures</p>
+    <p class="size-for-description-content">{{ Features }}</p>
 
     <br />
     <br />
 
-    <p>Created by:</p>
-    <p>{{ Creator }}</p>
+    <p class="size-for-key-features">Created by:</p>
+    <p class="size-for-description-content">{{ Creator }}</p>
   </div>
 
   <app-footer></app-footer>

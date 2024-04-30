@@ -13,7 +13,7 @@ import { MatDivider } from '@angular/material/divider';
 export class ProductSpesificComponent {
   title = 'TITLE';
   description = 'DESCRIPTION';
-  PRICE = '20';
+  PRICE = '40';
   Features = 'Well it seems nice. Right ?';
   Creator = 'Will Smith';
 }
