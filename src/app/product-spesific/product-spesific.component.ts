@@ -16,4 +16,6 @@ export class ProductSpesificComponent {
   PRICE = '40';
   Features = 'Well it seems nice. Right ?';
   Creator = 'Will Smith';
+  IMG: string =
+    '../../assets/Images/python-logo-png-this-free-icons-png-design-of-python-language-lo-10@1x.png';
 }
