@@ -1,1 +1,62 @@
-<p>request-spesific works!</p>
+<body>
+<app-navbar></app-navbar>
+
+<div class="flex-container">
+  <div class="left-side">
+    <p class="size-for-title">{{title}}</p>
+
+    <br />
+    <br />
+
+    <p class="size-for-description">Desription</p>
+    <p class="size-for-description-content">{{ description }}</p>
+  </div>
+
+  <mat-divider [vertical]="true"></mat-divider>
+
+  <div class="right-side">
+    <img class="img-size" src="{{ IMG }}" />
+    <br />
+    <br />
+    <p class="size-for-description-content">
+      Reward: CHF {{ PRICE }}
+    </p>
+    <div class="flex-container-price-section">
+      <p class="size-for-description-content">Likes:{{likes}}</p>
+    </div>
+
+    <br />
+    <br />
+  </div>
+</div>
+
+<br />
+<br />
+
+<hr />
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="next-to-each-other">
+
+<div class="features-created-by">
+  <p class="size-for-key-features">KeyFeatures</p>
+  <p class="size-for-description-content">{{ Features }}</p>
+
+  <br />
+  <br />
+
+  <p class="size-for-key-features">Asked by:</p>
+  <p class="size-for-description-content">{{ Creator }}</p>
+</div>
+
+
+  <div class="contact"><p class="text">Contact to take the task</p></div>
+
+</div>
+
+<app-footer></app-footer>
+</body>

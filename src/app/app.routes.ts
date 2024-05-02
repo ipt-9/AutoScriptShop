@@ -45,10 +45,10 @@ export const routes: Routes = [
   },
   {
     path: 'request-spesific',
-    component: FilterComponent,
+    component: RequestSpesificComponent,
   },
   {
     path: 'request-box',
-    component: FilterComponent,
+    component: RequestBoxComponent,
   },
 ];
