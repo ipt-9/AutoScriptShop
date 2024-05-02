@@ -21,7 +21,7 @@ export const routes: Routes = [
   },
   {
     path: '',
-    component: HomeComponent,
+    component: DumpComponent,
   },
   {
     path: 'test',
