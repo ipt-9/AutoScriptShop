@@ -1,1 +1,8 @@
-<p>product-box works!</p>
+<ul>
+  @for( post of data; track post.id){
+    <li>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.body }}</p>
+    </li>
+  }
+</ul>
