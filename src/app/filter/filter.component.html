@@ -1,1 +1,40 @@
-<p>filter works!</p>
+<div class="type">
+  <p class="h4">Type:</p>
+
+  <mat-checkbox [(ngModel)]="automationScripts" (change)="submitForm()">automationScripts</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="webTemplate" (change)="submitForm()">webTemplate</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="framework" (change)="submitForm()">framework</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="setupScripts" (change)="submitForm()">setupScripts</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="backendSolutions" (change)="submitForm()">backendSolutions</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="frontendSolutions" (change)="submitForm()">frontendSolutions</mat-checkbox>
+  <br />
+</div>
+
+<div class="type">
+  <p class="h4">Price Range:</p>
+  <p-slider [(ngModel)]="rangeValues" [range]="true"></p-slider>
+</div>
+
+<div class="type">
+  <p class="h4">Freelance Rating:</p>
+  <mat-checkbox [(ngModel)]="frontendSolutions" (change)="submitForm()">ON/OFF</mat-checkbox>
+</div>
+
+<div class="type">
+  <p class="h4">Languages:</p>
+
+  <mat-checkbox [(ngModel)]="Python" (change)="submitForm()">Python</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="C" (change)="submitForm()">C#</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="framework" (change)="submitForm()">PHP</mat-checkbox>
+  <br />
+  <mat-checkbox [(ngModel)]="setupScripts" (change)="submitForm()">CSS</mat-checkbox>
+  <br>
+  <mat-checkbox [(ngModel)]="setupScripts" (change)="submitForm()">Powershell</mat-checkbox>
+</div>
