@@ -7,7 +7,7 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
 import { ProductBoxComponent } from './product-box/product-box.component';
 import { FilterComponent } from './filter/filter.component';
 import { RequestsComponent } from './requests/requests.component';
-import { RequestSpesificComponent } from './request-spesific/request-spesific.component';
+import { RequestDetailsComponent } from './request-details/request-details.component';
 import { RequestBoxComponent } from './request-box/request-box.component';
 
 export const routes: Routes = [
@@ -44,8 +44,8 @@ export const routes: Routes = [
     component: FilterComponent,
   },
   {
-    path: 'request-spesific',
-    component: RequestSpesificComponent,
+    path: 'request-details',
+    component: RequestDetailsComponent,
   },
   {
     path: 'request-box',

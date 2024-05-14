@@ -2,7 +2,6 @@ import {Component, inject, OnInit} from '@angular/core';
 import { NavbarComponent } from '../navbar/navbar.component';
 import { FooterComponent } from '../footer/footer.component';
 import { MatDivider } from '@angular/material/divider';
-import {JsonPipe} from '@angular/common';
 import { HttpClient } from "@angular/common/http";
 import { ActivatedRoute } from '@angular/router';
 
@@ -10,7 +9,11 @@ import { ActivatedRoute } from '@angular/router';
 @Component({
   selector: 'app-product-details',
   standalone: true,
-  imports: [NavbarComponent, FooterComponent, MatDivider, JsonPipe],
+  imports: [
+    NavbarComponent,
+    FooterComponent,
+    MatDivider
+  ],
   templateUrl: './product-details.component.html',
   styleUrl: './product-details.component.scss',
 })

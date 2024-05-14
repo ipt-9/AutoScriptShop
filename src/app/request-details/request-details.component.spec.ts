@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { RequestSpesificComponent } from './request-spesific.component';
+import { RequestDetailsComponent } from './request-details.component';
 
 describe('RequestSpesificComponent', () => {
-  let component: RequestSpesificComponent;
-  let fixture: ComponentFixture<RequestSpesificComponent>;
+  let component: RequestDetailsComponent;
+  let fixture: ComponentFixture<RequestDetailsComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [RequestSpesificComponent]
+      imports: [RequestDetailsComponent]
     })
     .compileComponents();
-    
-    fixture = TestBed.createComponent(RequestSpesificComponent);
+
+    fixture = TestBed.createComponent(RequestDetailsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

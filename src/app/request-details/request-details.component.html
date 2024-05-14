@@ -3,13 +3,13 @@
 
 <div class="flex-container">
   <div class="left-side">
-    <p class="size-for-title">{{title}}</p>
+    <p class="size-for-title">{{response.title}}</p>
 
     <br />
     <br />
 
     <p class="size-for-description">Desription</p>
-    <p class="size-for-description-content">{{ description }}</p>
+    <p class="size-for-description-content">{{response.body}}</p>
   </div>
 
   <mat-divider [vertical]="true"></mat-divider>
@@ -19,7 +19,7 @@
     <br />
     <br />
     <p class="size-for-description-content">
-      Reward: CHF {{ PRICE }}
+      Reward: CHF {{ response.reward }}
     </p>
     <div class="flex-container-price-section">
       <p class="size-for-description-content">Likes:{{likes}}</p>
@@ -44,7 +44,7 @@
 
 <div class="features-created-by">
   <p class="size-for-key-features">KeyFeatures</p>
-  <p class="size-for-description-content">{{ Features }}</p>
+  <p class="size-for-description-content">{{ response.status }}</p>
 
   <br />
   <br />

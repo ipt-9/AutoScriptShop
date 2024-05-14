@@ -1,1 +1,9 @@
-<p>requests works!</p>
+<app-navbar></app-navbar>
+
+<ul>
+  <li *ngFor="let product of response, index as i">
+    <app-request-box [request]="response[i]" (requestClicked)="requestClicked($event)"></app-request-box>
+  </li>
+</ul>
+
+<app-footer></app-footer>
