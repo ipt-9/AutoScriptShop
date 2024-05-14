@@ -1,0 +1,92 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+.flex-container-price-section {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+input {
+  width: 4vw;
+}
+.right-side {
+  margin-top: 6vw;
+}
+.left-side {
+  margin-top: 7vw;
+  width: 35%;
+}
+
+.mat-divider.mat-divider-vertical {
+  height: 30vw;
+  margin-top: 16vw;
+  color: white;
+}
+.mat-divider {
+  color: white;
+  height: 1vw;
+}
+.img-size {
+  height: 18vw;
+  width: auto;
+}
+.size-for-description {
+  font-weight: bold;
+  font-size: 3vw;
+}
+.size-for-description-content {
+  font-size: 1.8vw;
+}
+.size-for-key-features {
+  font-size: 3vw;
+  font-weight: bold;
+}
+.size-for-title {
+  font-weight: bold;
+  font-size: 4.5vw;
+}
+hr {
+  width: 80%;
+  height: 3px;
+  background-color: white;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.features-created-by {
+  margin-left: 5%;
+}
+.next-to-each-other{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.contact{
+  align-self: center;
+  margin-right: 20vw;
+  font-size: 2.8vw;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 1vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
+
+}
+.text{
+  color: black;
+  margin: 1vw;
+}
+
+.size-for-cart{
+  font-size: 1.5vw;
+  border-radius: 1vw;
+}
