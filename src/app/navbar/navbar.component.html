@@ -1,20 +1,22 @@
 <mat-toolbar class="flex-container">
   <span>
-    <img
-      routerLink="/dump"
-      class="navlogo"
-      src="../../assets/Images/Logos/Logo-White.png"
-    />
+    <a routerLink="/dump">
+      <img
+        class="navlogo"
+        src="../../assets/Images/Logos/Logo-White.png"
+      />
+    </a>
   </span>
 
   <span class="fill-remaining-space"></span>
 
   <mat-divider [vertical]="true"></mat-divider>
 
-  <span><p routerLink="/products" class="texts">Products</p></span>
+  <span><a routerLink="/products" class="texts">Products</a></span>
 
-  <span><p routerLink="/requests" class="texts">Requests</p></span>
+  <span><a routerLink="/requests" class="texts">Requests</a></span>
   <span><img src="../../assets/Images/Lupe.png" /></span>
   <span><img src="../../assets/Images/Shoppingcart.png" /></span>
   <span><img src="../../assets/Images/UserIcon.png" /></span>
 </mat-toolbar>
+s

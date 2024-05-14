@@ -3,7 +3,6 @@ import { FormsModule } from '@angular/forms';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { SliderModule } from 'primeng/slider';
-import { Products } from '../products';
 
 @Component({
   selector: 'app-filter',
@@ -27,7 +26,7 @@ export class FilterComponent {
   freelanceRating = false;
 
   rangeValues: number[] = [20, 80];
-  products: Products[] = [];
+  products: any;
 
   constructor(private http: HttpClient) {}
 

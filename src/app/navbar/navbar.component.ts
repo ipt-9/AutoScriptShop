@@ -7,7 +7,12 @@ import {RouterLink} from "@angular/router";
 @Component({
   selector: 'app-navbar',
   standalone: true,
-  imports: [MatDivider, MatToolbar, NgOptimizedImage, RouterLink],
+  imports: [
+    MatDivider,
+    MatToolbar,
+    NgOptimizedImage,
+    RouterLink
+  ],
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.scss',
 })
