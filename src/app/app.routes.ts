@@ -3,7 +3,7 @@ import { HomeComponent } from './home/home.component';
 import { ProductsComponent } from './products/products.component';
 import { TESTComponent } from './test/test.component';
 import { DumpComponent } from './dump/dump.component';
-import { ProductSpesificComponent } from './product-spesific/product-spesific.component';
+import { ProductDetailsComponent } from './product-details/product-details.component';
 import { ProductBoxComponent } from './product-box/product-box.component';
 import { FilterComponent } from './filter/filter.component';
 import { RequestsComponent } from './requests/requests.component';
@@ -32,8 +32,8 @@ export const routes: Routes = [
     component: DumpComponent,
   },
   {
-    path: 'product-spesific',
-    component: ProductSpesificComponent,
+    path: 'product-details/:id',
+    component: ProductDetailsComponent,
   },
   {
     path: 'product-box',

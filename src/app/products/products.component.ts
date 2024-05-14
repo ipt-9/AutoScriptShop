@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {HttpClient} from "@angular/common/http";
-import {ProductSpesificComponent} from "../product-spesific/product-spesific.component";
+import {ProductDetailsComponent} from "../product-details/product-details.component";
 import {ProductBoxComponent} from "../product-box/product-box.component";
 import {NgFor} from "@angular/common";
 
@@ -8,7 +8,7 @@ import {NgFor} from "@angular/common";
   selector: 'app-products',
   standalone: true,
   imports: [
-    ProductSpesificComponent,
+    ProductDetailsComponent,
     ProductBoxComponent,
     NgFor
   ],
@@ -21,7 +21,7 @@ export class ProductsComponent implements OnInit{
   constructor(private http: HttpClient) {}
 
   ngOnInit() {
-    this.http.get<any>('http://127.0.0.1:8000/api/products').subscribe(data => {
+    this.http.get<any>('127.0.0.1:8000/api/products').subscribe(data => {
       this.response = data;
     })
   }

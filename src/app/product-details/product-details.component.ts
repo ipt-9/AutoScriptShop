@@ -4,22 +4,28 @@ import { FooterComponent } from '../footer/footer.component';
 import { MatDivider } from '@angular/material/divider';
 import {JsonPipe} from '@angular/common';
 import { HttpClient } from "@angular/common/http";
+import { ActivatedRoute } from '@angular/router';
+
 
 @Component({
-  selector: 'app-product-spesific',
+  selector: 'app-product-details',
   standalone: true,
   imports: [NavbarComponent, FooterComponent, MatDivider, JsonPipe],
-  templateUrl: './product-spesific.component.html',
-  styleUrl: './product-spesific.component.scss',
+  templateUrl: './product-details.component.html',
+  styleUrl: './product-details.component.scss',
 })
-export class ProductSpesificComponent implements OnInit{
+export class ProductDetailsComponent implements OnInit{
   response: any;
 
-  constructor(private http: HttpClient) {
-  }
+  constructor(
+    private route: ActivatedRoute,
+    private http: HttpClient
+  ) {}
 
   ngOnInit() {
-    this.http.get<any>('https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/id/51').subscribe(data => {
+    const id = Number(this.route.snapshot.paramMap.get('id'))
+
+    this.http.get<any>('https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/id/'+ id).subscribe(data => {
       this.response = data;
     })
   }
