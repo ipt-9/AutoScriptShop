@@ -9,6 +9,8 @@ import { FilterComponent } from './filter/filter.component';
 import { RequestsComponent } from './requests/requests.component';
 import { RequestDetailsComponent } from './request-details/request-details.component';
 import { RequestBoxComponent } from './request-box/request-box.component';
+import {SignUpComponent} from "./sign-up/sign-up.component";
+import {LoginComponent} from "./login/login.component";
 
 export const routes: Routes = [
   {
@@ -50,5 +52,13 @@ export const routes: Routes = [
   {
     path: 'request-box',
     component: RequestBoxComponent,
+  },
+  {
+    path: 'sign-up',
+    component: SignUpComponent,
+  },
+  {
+    path: 'login',
+    component: LoginComponent,
   },
 ];

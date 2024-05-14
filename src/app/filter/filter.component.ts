@@ -11,6 +11,7 @@ import { SliderModule } from 'primeng/slider';
   templateUrl: './filter.component.html',
   styleUrls: ['./filter.component.scss'],
 })
+
 export class FilterComponent {
   automationScripts = false;
   webTemplate = false;
