@@ -1,1 +1,9 @@
-<a *ngFor="let product of response"><app-product-box></app-product-box></a>
+<app-navbar></app-navbar>
+
+<ul>
+  <li *ngFor="let product of response, index as i">
+    <app-product-box [product]="response[i]" (productClicked)="productClicked($event)"></app-product-box>
+  </li>
+</ul>
+
+<app-footer></app-footer>
