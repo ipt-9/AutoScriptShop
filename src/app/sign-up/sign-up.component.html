@@ -5,14 +5,14 @@
 
   <mat-form-field>
     <mat-label>First name</mat-label>
-    <input matInput #firstname (keyup)="onKeyFirstname(firstname.value)">
+    <input matInput [(ngModel)]="firstName" name="firstname">
   </mat-form-field>
 
   <br>
 
   <mat-form-field>
     <mat-label>Last name</mat-label>
-    <input matInput #lastname (keyup)="onKeyLastname(lastname.value)">
+    <input matInput [(ngModel)]="lastName" name="lastname">
   </mat-form-field>
 
   <br>
@@ -20,14 +20,14 @@
 
   <mat-form-field>
     <mat-label>Username</mat-label>
-    <input matInput #username (keyup)="onKeyUsername(username.value)">
+    <input matInput [(ngModel)]="Username" name="username">
   </mat-form-field>
 
   <br>
 
   <mat-form-field>
     <mat-label>Email</mat-label>
-    <input matInput #email (keyup)="onKeyEmail(email.value)">
+    <input matInput [(ngModel)]="email" name="email">
   </mat-form-field>
 
   <br>

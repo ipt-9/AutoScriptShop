@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 import { NavbarComponent } from '../navbar/navbar.component';
 import { FooterComponent } from '../footer/footer.component';
-import { RouterLink } from '@angular/router';
+import {Router, RouterLink} from '@angular/router';
 import { MatFormField, MatLabel } from '@angular/material/form-field';
 import { MatInput } from '@angular/material/input';
-import { PaginatorModule } from 'primeng/paginator';
+import {FormsModule} from "@angular/forms";
+import {HttpClient, HttpHeaders} from "@angular/common/http";
+import {MatButton} from "@angular/material/button";
 
 @Component({
   selector: 'app-login',
@@ -16,7 +18,8 @@ import { PaginatorModule } from 'primeng/paginator';
     MatFormField,
     MatInput,
     MatLabel,
-    PaginatorModule,
+    FormsModule,
+    MatButton,
   ],
   templateUrl: './login.component.html',
   styleUrl: './login.component.scss',
@@ -24,7 +27,27 @@ import { PaginatorModule } from 'primeng/paginator';
 export class LoginComponent {
   email?: string;
   password?: string;
-  onKeyEmail(value: string) {
-    this.email = value;
+
+  constructor(
+    private http: HttpClient,
+    private router: Router
+  ) {}
+
+  login() {
+    if(!this.email || !this.password){
+      return
+    }
+
+    const body = {
+      email: this.email,
+      password: this.password,
+    };
+    const headers = new HttpHeaders({ 'Accept': 'application/json' });
+    this.http.post<any>('http://127.0.0.1:8000/api/user/login/', body, {headers: headers}).subscribe({
+      next: (data) => sessionStorage.setItem('token', data.token),
+      error: (err) => console.error('error: ', err)
+    })
+
+    this.router.navigate(['/dump'])
   }
 }

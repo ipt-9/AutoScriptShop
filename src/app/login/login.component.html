@@ -11,13 +11,15 @@
 <form (submit)="$event.preventDefault()">
   <mat-form-field>
     <mat-label>Email</mat-label>
-    <input matInput #email (keyup)="onKeyEmail(email.value)" />
+    <input matInput [(ngModel)]="email" name="email" />
   </mat-form-field>
   <br />
   <mat-form-field>
     <mat-label>Password</mat-label>
     <input matInput [(ngModel)]="password" type="password" name="password" />
   </mat-form-field>
+
+  <button mat-raised-button (click)="login()">login</button>
 </form>
 <a routerLink="/sign-up">No Account? Create one</a>
 <app-footer></app-footer>
