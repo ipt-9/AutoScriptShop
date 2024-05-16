@@ -13,6 +13,9 @@ import { SignUpComponent } from './sign-up/sign-up.component';
 import { LoginComponent } from './login/login.component';
 import { AboutComponent } from './about/about.component';
 import { OfferproductComponent } from './offerproduct/offerproduct.component';
+import { ImpressumComponent } from './impressum/impressum.component';
+import { DisclaimerComponent } from './disclaimer/disclaimer.component';
+import { TermsandconditionsComponent } from './termsandconditions/termsandconditions.component';
 
 export const routes: Routes = [
   {
@@ -70,5 +73,17 @@ export const routes: Routes = [
   {
     path: 'offerproduct',
     component: OfferproductComponent,
+  },
+  {
+    path: 'impressum',
+    component: ImpressumComponent,
+  },
+  {
+    path: 'disclaimer',
+    component: DisclaimerComponent,
+  },
+  {
+    path: 'termsandconditions',
+    component: TermsandconditionsComponent,
   },
 ];
