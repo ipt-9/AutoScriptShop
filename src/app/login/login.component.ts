@@ -50,10 +50,11 @@ export class LoginComponent {
         { headers: headers },
       )
       .subscribe({
-        next: (data) => sessionStorage.setItem('token', data.token),
+        next: async (data) => {
+          sessionStorage.setItem('token', data.token);
+          await this.router.navigate(['/dump']);
+        },
         error: (err) => console.error('error: ', err),
       });
-
-    this.router.navigate(['/dump']);
   }
 }
