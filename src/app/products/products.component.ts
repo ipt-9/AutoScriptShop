@@ -6,6 +6,7 @@ import {NgFor} from "@angular/common";
 import {NavbarComponent} from "../navbar/navbar.component";
 import {FooterComponent} from "../footer/footer.component";
 import {Router} from "@angular/router";
+import {FilterComponent} from "../filter/filter.component";
 
 @Component({
   selector: 'app-products',
@@ -15,7 +16,8 @@ import {Router} from "@angular/router";
     ProductBoxComponent,
     NgFor,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    FilterComponent
   ],
   templateUrl: './products.component.html',
   styleUrl: './products.component.scss'

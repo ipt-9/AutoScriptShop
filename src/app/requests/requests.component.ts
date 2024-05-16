@@ -5,6 +5,8 @@ import {NgForOf} from "@angular/common";
 import {HttpClient} from "@angular/common/http";
 import {Router} from "@angular/router";
 import {RequestBoxComponent} from "../request-box/request-box.component";
+import {FilterComponent} from "../filter/filter.component";
+import {ProductBoxComponent} from "../product-box/product-box.component";
 
 @Component({
   selector: 'app-requests',
@@ -14,6 +16,8 @@ import {RequestBoxComponent} from "../request-box/request-box.component";
     NavbarComponent,
     NgForOf,
     RequestBoxComponent,
+    FilterComponent,
+    ProductBoxComponent,
   ],
   templateUrl: './requests.component.html',
   styleUrl: './requests.component.scss'
