@@ -3,8 +3,8 @@ import { MatCheckbox } from '@angular/material/checkbox';
 import { FormsModule } from '@angular/forms';
 import { NavbarComponent } from '../navbar/navbar.component';
 import { FooterComponent } from '../footer/footer.component';
-import {HttpClient, HttpHeaders} from "@angular/common/http";
-import {Router} from "@angular/router";
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-offerproduct',
@@ -14,38 +14,55 @@ import {Router} from "@angular/router";
   styleUrl: './offerproduct.component.scss',
 })
 export class OfferproductComponent {
-  checked:boolean= false;
+  checked: boolean = false;
   title?: string;
   body?: string;
   features?: string;
-  price?:number;
+  price?: number;
   script?: string;
-  token?:any;
+  token?: any;
 
   constructor(
     private http: HttpClient,
-    private router: Router
+    private router: Router,
   ) {}
 
   submitForm() {
-    if (!this.checked || !this.title || !this.body || !this.features || !this.price || !this.script || !sessionStorage.getItem('token')) {
-      return
+    if (
+      !this.checked ||
+      !this.title ||
+      !this.body ||
+      !this.features ||
+      !this.price ||
+      !this.script ||
+      !sessionStorage.getItem('token')
+    ) {
+      return;
     }
 
     const token = sessionStorage.getItem('token');
-    this.token = token
+    this.token = token;
 
     const body = {
       title: this.title,
       body: this.body,
       features: this.features,
       price: this.price,
-      script: this.script
+      script: this.script,
     };
-    const headers = new HttpHeaders({'Authorization': `Bearer ${{token}}`});
-    this.http.post<any>('http://127.0.0.1:8000/api/products/create/', body, {headers: headers}).subscribe({
-      next: () => console.log("success"),
-      error: (err) => console.error('error: ', err)
-    })
+    console.log(token);
+    const headers = new HttpHeaders({ Authorization: `Bearer ${{ token }}` });
+    this.http
+      .post<any>(
+        'https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/create/',
+        body,
+        {
+          headers: headers,
+        },
+      )
+      .subscribe({
+        next: () => console.log('success'),
+        error: (err) => console.error('error: ', err),
+      });
   }
 }
