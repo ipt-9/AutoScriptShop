@@ -1,0 +1,28 @@
+.flex-container {
+  display: flex;
+  width: 100vw;
+  justify-content: space-around;
+}
+
+.panel {
+  width: 60vw;
+  background-color: black;
+  padding: 5vw;
+  padding-left: 10vw;
+  border-radius: 1vw;
+  border: 0.05vw solid white;
+}
+
+p {
+  line-height: 1.5vw;
+  font-size: 1.5vw;
+}
+.bold {
+  font-weight: bold;
+  font-size: 1.6vw;
+}
+.boldspecial {
+  font-weight: bold;
+  font-size: 2vw;
+  margin-left: 15vw;
+}
