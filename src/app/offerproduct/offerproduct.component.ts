@@ -4,12 +4,12 @@ import { FormsModule } from '@angular/forms';
 import { NavbarComponent } from '../navbar/navbar.component';
 import { FooterComponent } from '../footer/footer.component';
 import {HttpClient, HttpHeaders} from "@angular/common/http";
-import {Router} from "@angular/router";
+import {Router, RouterLink} from "@angular/router";
 
 @Component({
   selector: 'app-offerproduct',
   standalone: true,
-  imports: [MatCheckbox, FormsModule, NavbarComponent, FooterComponent],
+  imports: [MatCheckbox, FormsModule, NavbarComponent, FooterComponent, RouterLink],
   templateUrl: './offerproduct.component.html',
   styleUrl: './offerproduct.component.scss',
 })
