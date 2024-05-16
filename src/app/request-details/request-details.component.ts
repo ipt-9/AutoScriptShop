@@ -1,24 +1,27 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {FooterComponent} from "../footer/footer.component";
 import {MatDivider} from "@angular/material/divider";
 import {NavbarComponent} from "../navbar/navbar.component";
 import {ActivatedRoute} from "@angular/router";
 import {HttpClient} from "@angular/common/http";
+import {Observable} from "rxjs";
+import {AsyncPipe} from "@angular/common";
 
 @Component({
   selector: 'app-request-details',
   standalone: true,
-    imports: [
-        FooterComponent,
-        MatDivider,
-        NavbarComponent
-    ],
+  imports: [
+    FooterComponent,
+    MatDivider,
+    NavbarComponent,
+    AsyncPipe
+  ],
   templateUrl: './request-details.component.html',
   styleUrl: './request-details.component.scss'
 })
 
-export class RequestDetailsComponent {
-  response: any;
+export class RequestDetailsComponent implements OnInit{
+  response$?: Observable<any>;
 
   constructor(
     private route: ActivatedRoute,
@@ -27,10 +30,8 @@ export class RequestDetailsComponent {
 
   ngOnInit() {
     const id = Number(this.route.snapshot.paramMap.get('id'))
+this.response$ = this.http.get<any>('https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/tasks/id/'+ id)
 
-    this.http.get<any>('https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/tasks/id/'+ id).subscribe(data => {
-      this.response = data;
-    })
   }
 
   likes = 111;

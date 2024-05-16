@@ -1,4 +1,5 @@
 <div class="product" (click)="onClick()">
+  @if(product){
   <div class="columnOne">
     <img [src]="image" alt="{{ product.title }} Image">
     <h2 class="title">{{ product.title }}</h2>
@@ -9,4 +10,5 @@
   <div class="columnThree">
     <p class="description">{{ product.description }}</p>
   </div>
+  }
 </div>
