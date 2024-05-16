@@ -33,7 +33,7 @@
 
   <mat-form-field>
     <mat-label>Password</mat-label>
-    <input matInput #password type="password" (keyup)="onKeyPassword(password.value)">
+    <input [(ngModel)]="password" type="password">
   </mat-form-field>
 
 

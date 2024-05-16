@@ -8,6 +8,7 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatButtonModule} from '@angular/material/button';
 import {TextFieldModule} from '@angular/cdk/text-field';
 import {MatIcon} from "@angular/material/icon";
+import {FormsModule} from "@angular/forms";
 
 @Component({
   selector: 'app-sign-up',
@@ -19,7 +20,8 @@ import {MatIcon} from "@angular/material/icon";
     TextFieldModule,
     MatButtonModule,
     FooterComponent,
-    MatIcon
+    MatIcon,
+    FormsModule
   ],
   templateUrl: './sign-up.component.html',
   styleUrl: './sign-up.component.scss'
