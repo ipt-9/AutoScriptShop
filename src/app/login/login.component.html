@@ -1,27 +1,18 @@
-<body style="background-color: black; margin: 0;">
-
-
 <app-navbar></app-navbar>
 
-
-<br>
-<br>
+<br />
+<br />
 
 <h1>Login</h1>
 
-<br>
-<br>
+<br />
+<br />
 
 <form (submit)="$event.preventDefault()">
   <mat-form-field>
     <mat-label>Email</mat-label>
-    <input matInput #email (keyup)="onKeyEmail(email.value)">
+    <input matInput #email (keyup)="onKeyEmail(email.value)" />
   </mat-form-field>
-
 </form>
-
-  <a routerLink="/sign-up">No Account? Create one</a>
-
-
-  <app-footer></app-footer>
-</body>
+<a routerLink="/sign-up">No Account? Create one</a>
+<app-footer></app-footer>
