@@ -5,31 +5,50 @@
     <p class="BoldAndFat">Create a new Product</p>
 
     <form action="">
-      <input type="text" name="ProductName" id="1" placeholder="Product Name" />
-      <br />
-      <input type="text" name="Tags" id="2" placeholder="Tags" />
+      <input
+        [(ngModel)]="title"
+        type="text"
+        name="ProductName"
+        placeholder="Product Name"
+      />
       <br />
       <input
+        [(ngModel)]="features"
+        type="text"
+        name="Tags"
+        placeholder="Choose some Tags"
+      />
+      <br />
+      <input
+        [(ngModel)]="body"
         type="text"
         name="ProductDescription"
-        id="3"
         placeholder="Product Description"
       />
       <br />
       <input
-        type="file"
+        [(ngModel)]="script"
+        type="text"
         name="DragFiles"
-        id="4"
-        placeholder="Drag your Files here"
+        placeholder="Input Git Link here"
+      />
+      <br/>
+      <input
+        [(ngModel)]="price"
+        type="number"
+        name="price"
+        placeholder=0
       />
 
-      <mat-checkbox [(ngModel)]="checked" (change)="submitForm()"
-        >Accept AGB</mat-checkbox
-      >
+      <mat-checkbox [(ngModel)]="checked" name="AcceptAGB"
+        >Accept AGB
+      </mat-checkbox>
     </form>
 
-    <button>Submit</button>
+    <button (click)="submitForm()">Submit</button>
     <button>Cancel</button>
+
+    <p>{{this.token}}</p>
   </div>
 </div>
 
