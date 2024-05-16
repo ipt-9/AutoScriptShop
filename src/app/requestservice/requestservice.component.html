@@ -1,0 +1,64 @@
+<app-navbar></app-navbar>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div class="flex-container">
+  <div class="panel">
+    <p class="boldspecial">Request Service</p>
+    <br />
+    <form action="">
+      <p class="bold">Title</p>
+      <input
+        [(ngModel)]="title"
+        type="text"
+        name="ProductName"
+        placeholder="Title"
+      />
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <p class="bold">Description</p>
+
+      <input
+        [(ngModel)]="description"
+        type="text"
+        name="RequestDescription"
+        placeholder="Describe what the script should be able to do"
+      />
+      <br />
+      <br />
+
+      <p class="bold">Tags</p>
+
+      <input [(ngModel)]="tags" type="text" name="Tags" placeholder="Tags" />
+      <br />
+      <br />
+
+      <p class="bold">Reward</p>
+      <input [(ngModel)]="price" type="number" name="price" placeholder="0" />
+      <br />
+      <br />
+      <br />
+      <br />
+      <mat-checkbox class="bold" [(ngModel)]="checked" name="AcceptAGB"
+        >Accept AGB
+      </mat-checkbox>
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <button>Submit</button>
+      <button>Cancel</button>
+      <br />
+    </form>
+  </div>
+</div>
+
+<app-footer></app-footer>

@@ -16,6 +16,7 @@ import { OfferproductComponent } from './offerproduct/offerproduct.component';
 import { ImpressumComponent } from './impressum/impressum.component';
 import { DisclaimerComponent } from './disclaimer/disclaimer.component';
 import { TermsandconditionsComponent } from './termsandconditions/termsandconditions.component';
+import { RequestserviceComponent } from './requestservice/requestservice.component';
 
 export const routes: Routes = [
   {
@@ -85,5 +86,9 @@ export const routes: Routes = [
   {
     path: 'termsandconditions',
     component: TermsandconditionsComponent,
+  },
+  {
+    path: 'requestservice',
+    component: RequestserviceComponent,
   },
 ];
