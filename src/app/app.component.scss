@@ -1,4 +1,5 @@
-router-outlet {
-  margin: 0 !important;
+.black-background {
   background-color: black;
+  color: white; /* Optional: Textfarbe weiß machen, damit der Text lesbar bleibt */
+  min-height: 100vh; /* Optional: Stellt sicher, dass der Hintergrund die gesamte Höhe des Viewports einnimmt */
 }

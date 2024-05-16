@@ -1,3 +1,58 @@
+<body style="background-color: black; margin: 0;">
 <app-navbar></app-navbar>
 
+<div class="flex-container">
+<form (submit)="$event.preventDefault()">
+  <mat-form-field>
+    <mat-label>First name</mat-label>
+    <input matInput #firstname (keyup)="onKeyFirstname(firstname.value)">
+  </mat-form-field>
 
+  <br>
+
+  <mat-form-field>
+    <mat-label>Last name</mat-label>
+    <input matInput #lastname (keyup)="onKeyLastname(lastname.value)">
+  </mat-form-field>
+
+  <br>
+
+
+  <mat-form-field>
+    <mat-label>Username</mat-label>
+    <input matInput #username (keyup)="onKeyUsername(username.value)">
+  </mat-form-field>
+
+  <br>
+
+  <mat-form-field>
+    <mat-label>Email</mat-label>
+    <input matInput #email (keyup)="onKeyEmail(email.value)">
+  </mat-form-field>
+
+  <br>
+
+  <mat-form-field>
+    <mat-label>Password</mat-label>
+    <input matInput #password type="password" (keyup)="onKeyPassword(password.value)">
+  </mat-form-field>
+
+
+  <br>
+  <br>
+
+  <button mat-raised-button (click)="createUser()">Submit</button>
+
+
+  <br>
+  <br>
+
+</form>
+
+
+
+</div>
+
+
+<app-footer></app-footer>
+</body>
