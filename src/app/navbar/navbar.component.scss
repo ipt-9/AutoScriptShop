@@ -12,8 +12,8 @@ body {
   display: flex;
   flex-wrap: nowrap;
   background-color: #121212;
+  border-bottom: 0.1vw solid white;
 }
-
 
 span {
   width: auto;
@@ -47,24 +47,21 @@ mat-toolbar {
   flex: 1 1 auto;
 }
 
-
 .texts {
   font-size: 2.7vw;
   margin-bottom: 0px;
   margin-top: 0px;
   vertical-align: auto;
 }
-.navlogo{
+.navlogo {
   margin-left: 2.5vw;
 }
 
 img {
-  height: 4.5vw ;
+  height: 4.5vw;
   margin-top: 1.5vw;
 
   background-color: #121212;
 }
 
-
 // Searchbar
-

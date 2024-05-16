@@ -1,0 +1,47 @@
+.flex-container {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  margin-top: 10vw;
+}
+
+.panel {
+  width: 80vw;
+  background-color: black;
+  border: white;
+  border-width: 0.05vw;
+  border-radius: 1.25vw;
+  border-style: solid;
+}
+
+.flex-between {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 30vw;
+  margin-left: 3vw;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 1.6vw;
+}
+
+.text-alignment {
+  margin: 5vw;
+}
+
+p {
+  font-size: 1.5vw;
+  line-height: 2.25vw;
+}
+
+img {
+  width: 20vw;
+}
+
+.space-between {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}

@@ -1,14 +1,12 @@
-
-
 img {
   height: 8vw;
   margin-top: 3vw;
-
 }
 
 .mat-divider.mat-divider-vertical {
   height: 13vw;
-  margin-top: 1vw;
+  margin-top: 1.5vw;
+  margin-bottom: 1.5vw;
 }
 
 footer {
@@ -22,15 +20,27 @@ footer {
   justify-content: space-around;
   border-color: white;
   border-width: thin;
-  margin-top: 20vw;
-//  align-content: flex-start;
+  border-style: solid;
+  width: 80vw;
+  margin-left: 10vw;
+  margin-top: 10vw;
+  border-radius: 1.25vw;
+  //  align-content: flex-start;
 }
-.Flex-Box{
+.Flex-Box {
   display: flex;
-  width: 20vw ;
+  width: 20vw;
   margin-right: 6vw;
+  margin-top: 2.25vw;
   justify-content: space-around;
 }
-p{
+p {
+  font-size: 1.5vw;
+}
+
+a:link,
+a:visited {
+  color: white; /* Set your desired color for both unvisited and visited links */
+  text-decoration: none; /* Optional: removes the underline from links */
   font-size: 1.5vw;
 }

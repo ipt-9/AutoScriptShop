@@ -1,17 +1,13 @@
 import { Component } from '@angular/core';
-import {MatDivider} from "@angular/material/divider";
-import {MatToolbar} from "@angular/material/toolbar";
+import { MatDivider } from '@angular/material/divider';
+import { MatToolbar } from '@angular/material/toolbar';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-footer',
   standalone: true,
-  imports: [
-    MatDivider,
-    MatToolbar
-  ],
+  imports: [MatDivider, MatToolbar, RouterLink],
   templateUrl: './footer.component.html',
-  styleUrl: './footer.component.scss'
+  styleUrl: './footer.component.scss',
 })
-export class FooterComponent {
-
-}
+export class FooterComponent {}
