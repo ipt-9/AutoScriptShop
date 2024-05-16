@@ -1,9 +1,16 @@
 <app-navbar></app-navbar>
 
-<ul>
-  <li *ngFor="let product of response, index as i">
-    <app-request-box [request]="response[i]" (requestClicked)="requestClicked($event)"></app-request-box>
-  </li>
-</ul>
+<div class="flex-container">
+  <div class="filter-container">
+    <app-filter></app-filter>
+  </div>
+  <div class="products-container">
+    <ul>
+      <li *ngFor="let product of response, index as i">
+        <app-request-box [request]="response[i]" (requestClicked)="requestClicked($event)"></app-request-box>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <app-footer></app-footer>

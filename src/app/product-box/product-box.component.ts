@@ -11,7 +11,10 @@ import { Component, EventEmitter, Input, Output } from '@angular/core';
 export class ProductBoxComponent{
   @Input() product: any;
   @Output() productClicked = new EventEmitter<number>()
-
+  image = '../../assets/Images/Productimage.png';
+  title = "hello";
+  price = "665.9"
+  description = "Solo lonell"
   constructor() {}
 
   onClick() {

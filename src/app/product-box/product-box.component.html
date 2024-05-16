@@ -1,3 +1,12 @@
-<div (click)="onClick()">
-  <h3>{{product.title}}</h3>
+<div class="product" (click)="onClick()">
+  <div class="columnOne">
+    <img [src]="image" alt="{{ product.title }} Image">
+    <h2 class="title">{{ product.title }}</h2>
+  </div>
+  <div class="columnTwo">
+    <p class="price">Price: ${{ product.price }}</p>
+  </div>
+  <div class="columnThree">
+    <p class="description">{{ product.description }}</p>
+  </div>
 </div>
