@@ -4,6 +4,8 @@ import { FooterComponent } from '../footer/footer.component';
 import { MatDivider } from '@angular/material/divider';
 import { HttpClient } from "@angular/common/http";
 import { ActivatedRoute } from '@angular/router';
+import {Observable} from "rxjs";
+import {AsyncPipe} from "@angular/common";
 
 
 @Component({
@@ -12,13 +14,14 @@ import { ActivatedRoute } from '@angular/router';
   imports: [
     NavbarComponent,
     FooterComponent,
-    MatDivider
+    MatDivider,
+    AsyncPipe
   ],
   templateUrl: './product-details.component.html',
   styleUrl: './product-details.component.scss',
 })
 export class ProductDetailsComponent implements OnInit{
-  response: any;
+  response$?: Observable<any>;
 
   constructor(
     private route: ActivatedRoute,
@@ -27,10 +30,7 @@ export class ProductDetailsComponent implements OnInit{
 
   ngOnInit() {
     const id = Number(this.route.snapshot.paramMap.get('id'))
-
-    this.http.get<any>('https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/id/'+ id).subscribe(data => {
-      this.response = data;
-    })
+    this.response$ = this.http.get<any>('https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/id/'+ id)
   }
 
   Creator = 'Will Smith';

@@ -1,5 +1,5 @@
-<body>
   <app-navbar></app-navbar>
+  @if(response$ | async; as response){
 
   <div class="flex-container">
     <div class="left-side">
@@ -53,5 +53,5 @@
     <p class="size-for-description-content">{{ Creator }}</p>
   </div>
 
+  }
   <app-footer></app-footer>
-</body>

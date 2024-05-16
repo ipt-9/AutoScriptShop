@@ -5,11 +5,14 @@
     <app-filter></app-filter>
   </div>
   <div class="products-container">
+    @if(response$ | async; as response){
+
     <ul>
       <li *ngFor="let product of response, index as i">
         <app-request-box [request]="response[i]" (requestClicked)="requestClicked($event)"></app-request-box>
       </li>
     </ul>
+    }
   </div>
 </div>
 

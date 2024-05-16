@@ -4,6 +4,7 @@ import { FooterComponent } from '../footer/footer.component';
 import { FormsModule } from '@angular/forms';
 import { PaginatorModule } from 'primeng/paginator';
 import { MatCheckbox } from '@angular/material/checkbox';
+import {RouterLink} from "@angular/router";
 
 @Component({
   selector: 'app-requestservice',
@@ -14,6 +15,7 @@ import { MatCheckbox } from '@angular/material/checkbox';
     FormsModule,
     PaginatorModule,
     MatCheckbox,
+    RouterLink,
   ],
   templateUrl: './requestservice.component.html',
   styleUrl: './requestservice.component.scss',

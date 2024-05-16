@@ -66,24 +66,5 @@ export class FilterComponent {
     if (this.Powershell) {
       tags.push('powershell');
     }
-
-    const minRating = this.freelanceRating ? 1 : 0;
-    const maxRating = this.freelanceRating ? 5 : 0;
-
-    const [minPrice, maxPrice] = this.rangeValues;
-
-    const url = `backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/search?title=&maxrating=${maxRating}&minrating=${minRating}&tags=${tags.join(',')}&minprice=${minPrice}&maxprice=${maxPrice}`;
-
-    // Make the HTTP request using HttpClient
-    this.http.get(url).subscribe(
-      (response: any) => {
-        // Handle the response
-        this.products = response;
-      },
-      (error) => {
-        // Handle any errors
-        console.error('Error fetching products:', error);
-      },
-    );
   }
 }
