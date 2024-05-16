@@ -89,13 +89,15 @@
   </div>
 
   <div class="flex-container">
-    <div class="blue-pannel">
-      <p>Browse trough finished products here</p>
-      <img
-        class="blue-pannel-image"
-        src="../../assets/Images/BrowseFinishedProducts.png"
-      />
-    </div>
+    <a routerLink="/products">
+      <div class="blue-pannel">
+        <p>Browse trough finished products here</p>
+        <img
+          class="blue-pannel-image"
+          src="../../assets/Images/BrowseFinishedProducts.png"
+        />
+      </div>
+    </a>
     <div><p>OR</p></div>
     <div class="blue-pannel">
       <p>Make a request for a personalized script</p>
@@ -112,20 +114,22 @@
 
   <div class="flex-container">
     <div class="blue-pannel">
-      <p>Browse trough finished products here</p>
+      <p>List your scripts that are ready for selling here</p>
       <img
         class="blue-pannel-image"
         src="../../assets/Images/ListYourScripts.png"
       />
     </div>
     <div><p>OR</p></div>
-    <div class="blue-pannel">
-      <p>Make a request for a personalized script</p>
-      <img
-        class="blue-pannel-image"
-        src="../../assets/Images/BrowseRequests.png"
-      />
-    </div>
+    <a routerLink="/requests">
+      <div class="blue-pannel">
+        <p>Browse through requests to find a job that suits you</p>
+        <img
+          class="blue-pannel-image"
+          src="../../assets/Images/BrowseRequests.png"
+        />
+      </div>
+    </a>
   </div>
   <app-footer></app-footer>
 </body>
