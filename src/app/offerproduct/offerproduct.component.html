@@ -1,0 +1,36 @@
+<app-navbar></app-navbar>
+
+<div class="flex-container">
+  <div class="panel">
+    <p class="BoldAndFat">Create a new Product</p>
+
+    <form action="">
+      <input type="text" name="ProductName" id="1" placeholder="Product Name" />
+      <br />
+      <input type="text" name="Tags" id="2" placeholder="Tags" />
+      <br />
+      <input
+        type="text"
+        name="ProductDescription"
+        id="3"
+        placeholder="Product Description"
+      />
+      <br />
+      <input
+        type="file"
+        name="DragFiles"
+        id="4"
+        placeholder="Drag your Files here"
+      />
+
+      <mat-checkbox [(ngModel)]="checked" (change)="submitForm()"
+        >Accept AGB</mat-checkbox
+      >
+    </form>
+
+    <button>Submit</button>
+    <button>Cancel</button>
+  </div>
+</div>
+
+<app-footer></app-footer>

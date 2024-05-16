@@ -12,6 +12,7 @@ import { RequestBoxComponent } from './request-box/request-box.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { LoginComponent } from './login/login.component';
 import { AboutComponent } from './about/about.component';
+import { OfferproductComponent } from './offerproduct/offerproduct.component';
 
 export const routes: Routes = [
   {
@@ -65,5 +66,9 @@ export const routes: Routes = [
   {
     path: 'about',
     component: AboutComponent,
+  },
+  {
+    path: 'offerproduct',
+    component: OfferproductComponent,
   },
 ];
