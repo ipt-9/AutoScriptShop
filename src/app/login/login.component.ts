@@ -45,7 +45,7 @@ export class LoginComponent {
     const headers = new HttpHeaders({ Accept: 'application/json' });
     this.http
       .post<any>(
-        'http://127.0.0.1:8000/api/user/login/',
+        'https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/user/login/',
         body,
         { headers: headers },
       )
