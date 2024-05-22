@@ -42,7 +42,7 @@ export class LoginComponent {
       email: this.email,
       password: this.password,
     };
-    const headers = new HttpHeaders({ Accept: 'text/plain' });
+    const headers = new HttpHeaders({ Accept: 'application/json' });
     this.http
       .post<any>(
         'https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/user/login/',
