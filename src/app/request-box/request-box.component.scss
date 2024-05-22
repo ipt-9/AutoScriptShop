@@ -4,24 +4,26 @@
   border: 0.1vw solid #ddd;
   padding-top: 0.5vw;
   padding-bottom: 0.5vw;
-  padding-right: 15vw;
+  padding-right: 5vw;
   padding-left: 0.5vw;
   margin-bottom: 1vw;
   color: white;
   flex-direction: column;
   flex-wrap: nowrap;
-  width: 20%;
+  width: 80%;
   border-radius: 1vw;
 }
 
 .price {
+  font-size: 1.5vw;
   font-weight: bold;
   padding-left: 3%;
+  margin: 0vw;
 }
 
 .title{
   font-size: 1.5vw;
-  padding-left: 5%;
+  padding-left: 3%;
   padding-top: 3%;
 }
 
@@ -29,15 +31,3 @@
   padding-left: 3%;
 }
 
-.columnOne{
-  display: flex;
-  flex-direction: row;
-}
-.columnTwo{
-  display: flex;
-  flex-direction: row;
-}
-.columnThree{
-  display: flex;
-  flex-direction: row;
-}
