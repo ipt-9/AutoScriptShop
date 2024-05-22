@@ -26,7 +26,6 @@ export class OfferproductComponent {
   features?: string;
   price?: number;
   script?: string;
-  token?: any;
 
   constructor(
     private http: HttpClient,
@@ -47,7 +46,6 @@ export class OfferproductComponent {
     }
 
     const token = sessionStorage.getItem('token');
-    this.token = token;
     const body = {
       title: this.title,
       body: this.body,
@@ -55,7 +53,7 @@ export class OfferproductComponent {
       price: this.price,
       script: this.script,
     };
-    const headers = new HttpHeaders({ Authorization: `Bearer ${{ token }}` });
+    const headers = new HttpHeaders({ Authorization: `Bearer ${token}` });
     this.http
       .post<any>(
         'https://backend.auto-script-shop-bmsd21a.bbzwinf$.ch/api/products/create/',

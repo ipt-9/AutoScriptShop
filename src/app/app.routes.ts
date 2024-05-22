@@ -1,8 +1,6 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { ProductsComponent } from './products/products.component';
-import { TESTComponent } from './test/test.component';
-import { DumpComponent } from './dump/dump.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
 import { ProductBoxComponent } from './product-box/product-box.component';
 import { FilterComponent } from './filter/filter.component';
@@ -30,15 +28,7 @@ export const routes: Routes = [
   },
   {
     path: '',
-    component: DumpComponent,
-  },
-  {
-    path: 'test',
-    component: TESTComponent,
-  },
-  {
-    path: 'dump',
-    component: DumpComponent,
+    component: HomeComponent,
   },
   {
     path: 'product-details/:id',
