@@ -48,7 +48,6 @@ export class OfferproductComponent {
 
     const token = sessionStorage.getItem('token');
     this.token = token;
-
     const body = {
       title: this.title,
       body: this.body,
@@ -59,7 +58,7 @@ export class OfferproductComponent {
     const headers = new HttpHeaders({ Authorization: `Bearer ${{ token }}` });
     this.http
       .post<any>(
-        'https://backend.auto-script-shop-bmsd21a.bbzwinf.ch/api/products/create/',
+        'https://backend.auto-script-shop-bmsd21a.bbzwinf$.ch/api/products/create/',
         body,
         { headers: headers },
       )
