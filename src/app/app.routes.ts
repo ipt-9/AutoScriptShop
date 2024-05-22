@@ -15,7 +15,7 @@ import { ImpressumComponent } from './impressum/impressum.component';
 import { DisclaimerComponent } from './disclaimer/disclaimer.component';
 import { TermsandconditionsComponent } from './termsandconditions/termsandconditions.component';
 import { RequestserviceComponent } from './requestservice/requestservice.component';
-import { RequestsentsucsessfullyComponent} from "./requestsentsucsessfully/requestsentsucsessfully.component";
+import { RequestsentsucsessfullyComponent } from './requestsentsucsessfully/requestsentsucsessfully.component';
 
 export const routes: Routes = [
   {
@@ -85,5 +85,9 @@ export const routes: Routes = [
   {
     path: 'requestsentsucsessfully',
     component: RequestsentsucsessfullyComponent,
+  },
+  {
+    path: 'home',
+    component: HomeComponent,
   },
 ];
