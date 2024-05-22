@@ -3,23 +3,38 @@
 <br />
 <br />
 
-<h1>Login</h1>
+<div class="flex-container">
+  <div class="left-side">
+    <p class="bold">Login</p>
 
-<br />
-<br />
+    <br />
+    <br />
 
-<form (submit)="$event.preventDefault()">
-  <mat-form-field>
-    <mat-label>Email</mat-label>
-    <input matInput [(ngModel)]="email" name="email" />
-  </mat-form-field>
-  <br />
-  <mat-form-field>
-    <mat-label>Password</mat-label>
-    <input matInput [(ngModel)]="password" type="password" name="password" />
-  </mat-form-field>
+    <form (submit)="$event.preventDefault()">
+      <mat-form-field>
+        <mat-label>Email</mat-label>
+        <input class="input" matInput [(ngModel)]="email" name="email" />
+      </mat-form-field>
+      <br />
+      <mat-form-field>
+        <mat-label>Password</mat-label>
+        <input
+          class="input"
+          [(ngModel)]="password"
+          type="password"
+          name="password"
+        />
+      </mat-form-field>
 
-  <button mat-raised-button (click)="login()">login</button>
-</form>
-<a routerLink="/sign-up">No Account? Create one</a>
+      <br />
+      <button class="button" mat-raised-button (click)="login()">login</button>
+      <br />
+
+      <br />
+    </form>
+    <a class="text" routerLink="/sign-up">No Account? Create one</a>
+  </div>
+
+  <img class="img-size" src="../../assets/Images/login@1x.png" />
+</div>
 <app-footer></app-footer>

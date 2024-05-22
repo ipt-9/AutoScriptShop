@@ -6,10 +6,23 @@ mat-form-field {
   margin-right: 12px;
   margin-top: 12px;
 }
-.flex-container{
+.flex-container {
   margin-top: 5vw;
   color: white;
   display: flex;
 
   flex-direction: column;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 4vw;
+  margin-left: 2vw;
+}
+
+.p {
+  font-size: 2vw;
+  border-radius: 1vw;
+}
+.input {
 }

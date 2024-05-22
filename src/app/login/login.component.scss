@@ -1,0 +1,30 @@
+.bold {
+  font-weight: bold;
+  font-size: 4vw;
+  margin-left: 2vw;
+}
+
+.text {
+  font-size: 2vw;
+  border-radius: 1vw;
+  margin-left: 2vw;
+}
+.input {
+  font-size: 2vw;
+  border-radius: 1vw;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+.left-side {
+  width: 45vw;
+}
+img-size {
+  width: 1vw;
+  height: auto;
+}
