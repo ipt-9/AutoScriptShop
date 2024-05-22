@@ -4,18 +4,18 @@
   border: 0.1vw solid #ddd;
   padding-top: 0.5vw;
   padding-bottom: 0.5vw;
-  padding-right: 15vw;
+  padding-right: 5vw;
   padding-left: 0.5vw;
   margin-bottom: 1vw;
   color: white;
   flex-direction: column;
   flex-wrap: nowrap;
-  width: 20%;
+  width: 80%;
   border-radius: 1vw;
 }
 
-.product img {
-  max-width: 9vw;
+img {
+  width: 9vw;
   height: auto;
   padding-right: 1vw;
   border-radius: 1vw;
