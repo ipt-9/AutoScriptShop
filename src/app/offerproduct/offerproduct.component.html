@@ -32,21 +32,18 @@
         name="DragFiles"
         placeholder="Input Git Link here"
       />
-      <br/>
-      <input
-        [(ngModel)]="price"
-        type="number"
-        name="price"
-        placeholder=0
-      />
+      <br />
+      <input [(ngModel)]="price" type="number" name="price" placeholder="0" />
 
       <mat-checkbox [(ngModel)]="checked" name="AcceptAGB"
         >Accept AGB
       </mat-checkbox>
     </form>
 
-    <a routerLink="/productcreatedsucsessfully"><button (click)="submitForm()">Submit</button></a>
-    <a routerLink="/dump"><button>Cancel</button></a>
+    <a routerLink="/productcreatedsucsessfully"
+      ><button (click)="submitForm()">Submit</button></a
+    >
+    <a routerLink="/home"><button>Cancel</button></a>
   </div>
 </div>
 
