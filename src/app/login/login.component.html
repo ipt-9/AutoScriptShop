@@ -10,7 +10,7 @@
     <br />
     <br />
 
-    <form (submit)="$event.preventDefault()">
+    <form>
       <mat-form-field>
         <mat-label>Email</mat-label>
         <input class="input" matInput [(ngModel)]="email" name="email" />
@@ -19,6 +19,7 @@
       <mat-form-field>
         <mat-label>Password</mat-label>
         <input
+          matInput
           class="input"
           [(ngModel)]="password"
           type="password"

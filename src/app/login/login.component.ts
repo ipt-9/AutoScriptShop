@@ -52,7 +52,7 @@ export class LoginComponent {
       .subscribe({
         next: async (data) => {
           sessionStorage.setItem('token', data.token);
-          await this.router.navigate(['/dump']);
+          await this.router.navigate(['/home']);
         },
         error: (err) => console.error('error: ', err),
       });
